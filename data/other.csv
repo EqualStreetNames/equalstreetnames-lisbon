@@ -54,6 +54,7 @@ name,source,gender,wikidata,type
 "Arco do Evaristo",,,,way
 "Arco do Rosário",,,,way
 "Área de serviço Galp Aeroporto",,,,way
+"Arruamento à Avenida de Pádua",,,,way
 "Arruamento à Rua da Junqueira",,,,way
 "Arruamento à Rua de Vila Sena",,,,way
 "Átrio da Estação",,,,way
@@ -293,7 +294,6 @@ name,source,gender,wikidata,type
 "Bairro da Flamenga",,,,relation
 "Bairro do Alvito",,,,way
 "Beco Cascalho",,,,way
-"Beco Dos Fróis",,,,way
 "Beco Horta das Canas",,,,way
 "Beco Pato Moniz",,,,way
 "Beco da Achada",,,,way
@@ -384,6 +384,7 @@ name,source,gender,wikidata,type
 "Beco do Índia Pena",,,,way
 "Beco do Jasmim",,,,way
 "Beco do Jasmim à Rua João do Outeiro",,,,way
+"Beco do Leão",,,,way
 "Beco do Loureiro",,,,way
 "Beco do Machadinho",,,,way
 "Beco do Maldonado",,,,way
@@ -419,6 +420,7 @@ name,source,gender,wikidata,type
 "Beco dos Contrabandistas",,,,way
 "Beco dos Cortumes",,,,way
 "Beco dos Ferreiros",,,,way
+"Beco dos Fróis",,,,way
 "Beco dos Loios",,,,way
 "Beco dos Lóios",,,,way
 "Beco dos Paus",,,,way
@@ -884,7 +886,6 @@ Kamikaze,,,,way
 "Largo de Palma",,,,way
 "Largo de Santa Bárbara",,,,way
 "Largo de Santa Cruz do Castello",,,,way
-"Largo de Santa Cruz do Castelo",,,,way
 "Largo de Santa Luzia",,,,way
 "Largo de Santa Marinha",,,,way
 "Largo de Santo Antoninho",,,,way
@@ -925,6 +926,7 @@ Kamikaze,,,,way
 "Largo do Castelo",,,,way
 "Largo do Chafariz de Dentro",,,,way
 "Largo do Chão do Loureiro",,,,way
+"Largo do Chavariz de Dentro",,,,way
 "Largo do Chiado",,,,relation+way
 "Largo do Conde Barão",,,,way
 "Largo do Conde de Bonfim",,,,way
@@ -1127,6 +1129,7 @@ Parada,,,,way
 "Pátio do Sequeiro",,,,way
 "Pátio do Sextante",,,,way
 "Pátio do Silva",,,,way
+"Pátio do Souza",,,,way
 "Pátio do Terras",,,,way
 "Pátio do Tijolo",,,,way
 "Pátio do Xavier",,,,way
@@ -1208,8 +1211,8 @@ Parada,,,,way
 "Pista dos Oregãos",,,,way
 "Poço do Borratem",,,,way
 "Ponte 25 de Abril",,,,way
-"Ponte Cardeal Dom Manuel Clemente",,,,way
 "Ponte Ciclo-pedonal da Calçada de Carriche",,,,way
+"Ponte Ciclopedonal da Foz do Trancão",,,,way
 "Ponte Gonçalo Ribeiro Telles",,,,way
 "Ponte Monsanto",,,,way
 "Ponte Móvel da Rocha do Conde d'Óbidos",,,,way
@@ -1700,6 +1703,7 @@ Parada,,,,way
 "Rua Augusto Pina",,,,way
 "Rua Augusto Rosa",,,,way
 "Rua Augusto dos Santos",,,,way
+"Rua Augusto dos Santos Teodoro",,,,way
 "Rua Aura Abranches",,,,way
 "Rua Áurea",,,,way
 "Rua Aurélio Quintanilha",,,,way
@@ -2042,6 +2046,7 @@ Parada,,,,way
 "Rua Doutor Silva Teles",,,,way
 "Rua Doutor Teófilo Braga",,,,way
 "Rua Doutora Sara Benoliel",,,,way
+"Rua Dr. Costa Sacadura",,,,way
 "Rua Duarte Galvão",,,,way
 "Rua Duarte Lobo",,,,way
 "Rua Duarte Lopes",,,,way
@@ -3281,6 +3286,7 @@ Parada,,,,way
 "Rua das Chagas",,,,way
 "Rua das Chaminés d'El Rei",,,,way
 "Rua das Courelas",,,,way
+"Rua das Cozinhas",,,,way
 "Rua das Damas",,,,way
 "Rua das Enfermeiras da Grande Guerra",,,,way
 "Rua das Escolas",,,,way
