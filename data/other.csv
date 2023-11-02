@@ -7,7 +7,6 @@ name,source,gender,wikidata,type
 "Acesso Metro Laranjeiras",,,,way
 "Acesso Olival Basto",,,,way
 "Acesso à Ponte 25 de Abril",,,,way
-"Acesso à Ponte Ciclo-Pedonal",,,,way
 "Acesso ao Eixo N-S",,,,way
 "Acesso de Sete Rios",,,,way
 "Aeroporto da Portela",,,,way
@@ -254,6 +253,7 @@ name,source,gender,wikidata,type
 "Azinhaga da Troca",,,,way
 "Azinhaga da Vila Formosa",,,,way
 "Azinhaga das Carmelitas",,,,way
+"Azinhaga das Cerejeiras",,,,way
 "Azinhaga das Freiras",,,,way
 "Azinhaga das Galhardas",,,,way
 "Azinhaga das Galinheiras",,,,way
@@ -1263,7 +1263,6 @@ Parada,,,,way
 "Praça Gonçalo Trancoso",,,,way
 "Praça Ilha do Faial",,,,way
 "Praça João de Azevedo Coutinho",,,,way
-"Praça João do Rio",,,,way
 "Praça José Fontana",,,,way
 "Praça José Queirós",,,,way
 "Praça Laranjo Coelho",,,,way
