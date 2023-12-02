@@ -259,6 +259,7 @@ name,source,gender,wikidata,type
 "Azinhaga das Galinheiras",,,,way
 "Azinhaga das Lajes",,,,way
 "Azinhaga das Mós",,,,way
+"Azinhaga das Teresinhas",,,,way
 "Azinhaga das Travessas",,,,way
 "Azinhaga das Veigas",,,,way
 "Azinhaga de Santa Susana",,,,way
@@ -679,6 +680,7 @@ DH,,,,way
 "Escolas Gerais",,,,way
 "Esplanada Dom Carlos I",,,,way
 "Estacada das Gaivotas",,,,way
+"Estrada Benfica",,,,way
 "Estrada Estrangeira de Cima",,,,way
 "Estrada Militar",,,,way
 "Estrada Pedro Teixeira",,,,way
@@ -1121,6 +1123,7 @@ Parada,,,,way
 "Pátio do Pimenta",,,,way
 "Pátio do Pinzaleiro",,,,way
 "Pátio do Prior",,,,way
+"Pátio do Rabaça",,,,way
 "Pátio do Recolhimento",,,,way
 "Pátio do Rosa",,,,way
 "Pátio do Saldanha",,,,way
@@ -1212,7 +1215,7 @@ Parada,,,,way
 "Poço do Borratem",,,,way
 "Ponte 25 de Abril",,,,way
 "Ponte Ciclo-pedonal da Calçada de Carriche",,,,way
-"Ponte Ciclopedonal da Foz do Trancão",,,,way
+"Ponte Ciclopedonável Sobre o Rio Trancão",,,,way
 "Ponte Gonçalo Ribeiro Telles",,,,way
 "Ponte Monsanto",,,,way
 "Ponte Móvel da Rocha do Conde d'Óbidos",,,,way
@@ -1842,6 +1845,7 @@ Parada,,,,way
 "Rua Cecília Meireles",,,,way
 "Rua Cecilía Meireles 21",,,,way
 "Rua Cecílio de Sousa",,,,way
+"Rua Celeste Rodrigues",,,,way
 "Rua Celestino Alves",,,,way
 "Rua Centro dos Trabalhadores do Alto da Ajuda",,,,way
 "Rua Cervantes",,,,way
@@ -2124,6 +2128,7 @@ Parada,,,,way
 "Rua Félix Correia",,,,way
 "Rua Fernanda Alves",,,,way
 "Rua Fernanda Botelho",,,,way
+"Rua Fernanda Montemor",,,,way
 "Rua Fernandes da Fonseca",,,,way
 "Rua Fernando Assis Pacheco",,,,way
 "Rua Fernando Bento",,,,way
@@ -2250,6 +2255,7 @@ Parada,,,,way
 "Rua General Themudo Barata",,,,way
 "Rua General Vasco Gonçalves",,,,way
 "Rua General Vassalo e Silva",,,,way
+"Rua Georgina Ribas",,,,way
 "Rua Gervásio Lobato",,,,way
 "Rua Gil Eanes",,,,way
 "Rua Gil Vicente",,,,way
@@ -2364,6 +2370,7 @@ Parada,,,,way
 "Rua João Ortigão Ramos",,,,way
 "Rua João Palma Ferreira",,,,way
 "Rua João Palma-Ferreira",,,,way
+"Rua João Pedro Grácio",,,,way
 "Rua João Penha",,,,way
 "Rua João Pereira da Rosa",,,,way
 "Rua João Pinto Ribeiro",,,,way
@@ -2538,6 +2545,9 @@ Parada,,,,way
 "Rua M",,,,way
 "Rua Machado de Castro",,,,way
 "Rua Macia",,,,way
+"Rua Madalena Iglésias",,,,way
+"Rua Madre Purificação dos Anjos Silva",,,,way
+"Rua Madre Teresa de Calcutá",,,,way
 "Rua Maestro António Taborda",,,,way
 "Rua Maestro Frederico de Freitas",,,,way
 "Rua Maestro Jaime Silva (Filho)",,,,way
@@ -2590,6 +2600,7 @@ Parada,,,,way
 "Rua Maria Carlota",,,,way
 "Rua Maria Isabel Saint-Léger",,,,way
 "Rua Maria José Estanco",,,,way
+"Rua Maria José Nogueira Pinto",,,,way
 "Rua Maria José da Guia",,,,way
 "Rua Maria Júdice da Costa",,,,way
 "Rua Maria Lamas",,,,way
@@ -2886,7 +2897,6 @@ Parada,,,,way
 "Rua Projectada à Avenida Gomes Pereira",,,,way
 "Rua Projectada à Azinhaga das Galinheiras",,,,way
 "Rua Projectada à Rua Três à Matinha",,,,way
-"Rua Projectada à Rua do Conselheiro Lopo Vaz",,,,way
 "Rua Publia Hortênsia de Castro",,,,way
 "Rua Públia Hortênsia de Castro",,,,way
 "Rua Q",,,,way
