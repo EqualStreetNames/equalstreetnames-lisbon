@@ -1224,7 +1224,7 @@ Parada,,,,way
 "Ponte Móvel da Rocha do Conde d'Óbidos",,,,way
 "Ponte Pedonal e Ciclável acesso norte a Monsanto",,,,way
 "Ponte da Belavista",,,,way
-"Porta do Mar",,,,way
+"Porta do Mar",,,,relation
 "Porta do Tejo",,,,way
 "Portas do Sol",,,,way
 "Postigo Marquês do Lavradio",,,,way
@@ -2811,7 +2811,6 @@ Parada,,,,way
 "Rua Primeiro de Maio ao Grafanil",,,,way
 "Rua Principado de Andorra",,,,way
 "Rua Prior do Crato",,,,way
-"Rua Prista Monteiro",,,,way
 "Rua Professor Adelino da Palma Carlos",,,,way
 "Rua Professor Aires de Sousa",,,,way
 "Rua Professor Alfredo de Sousa",,,,way
@@ -3120,6 +3119,7 @@ Parada,,,,way
 "Rua Z",,,,way
 "Rua Zacarias de Aça",,,,way
 "Rua Zófimo Pedroso",,,,way
+"Rua da Academia Recreativa d Santo Amaro",,,,way
 "Rua da Academia Recreativa do Alto Santo Amaro",,,,way
 "Rua da Academia das Ciências",,,,way
 "Rua da Achada",,,,way
@@ -3139,7 +3139,7 @@ Parada,,,,way
 "Rua da Bela Vista à Lapa",,,,way
 "Rua da Bela-Flor",,,,way
 "Rua da Bempostinha",,,,way
-"Rua da Beneficência",,,,way
+"Rua da Beneficência",,,,relation
 "Rua da Betesga",,,,way
 "Rua da Bica de Duarte Belo",,,,way
 "Rua da Bica do Marquês",,,,way
