@@ -1,6 +1,7 @@
 name,source,gender,wikidata,type
 "Avenida de Berlim",wikidata,,Q64,way
 "Avenida do Rio de Janeiro",wikidata,,Q8678,way
+"Campo das Cebolas",wikidata,,Q23485,way
 "Ponte 25 de Abril",wikidata,,Q193245,way
 "Praça da Figueira",wikidata,,Q59798,way
 "Terreiro das Missas",wikidata,,Q132612,way
@@ -438,6 +439,7 @@ name,source,gender,wikidata,type
 "Beco dos Toucinheiros",,,,way
 "Beco dos Três Engenhos",,,,way
 "Beco dos Vidros",,,,way
+Benfica,,,,way
 "Boqueirão da Ponte da Lama",,,,way
 "Boqueirão da Ponte de Lama",,,,way
 "Boqueirão da Praia da Galé",,,,way
@@ -568,7 +570,6 @@ name,source,gender,wikidata,type
 "Campo Grande",,,,way
 "Campo Pequeno",,,,way
 "Campo das Amoreiras",,,,way
-"Campo das Cebolas",,,,way
 "Campo de Santa Clara",,,,way
 "Campo dos Mártires da Pátria",,,,way
 "Caracol da Graça",,,,way
@@ -644,8 +645,8 @@ DH,,,,way
 "Duque De Ávila com Rua Dona Estefânia",,,,way
 "Eixo Central",,,,way
 "Eixo Norte-Sul",,,,way
-"Elevador de Santa Luzia - Alfama",,,,way
 "Entrada da Estufa Fria",,,,way
+Entrecampos,,,,way
 "Escadaria José António Marques",,,,way
 "Escadaria das Necessidades",,,,way
 "Escadas à Rua Rainha Dona Brites",,,,way
@@ -655,6 +656,7 @@ DH,,,,way
 "Escadas do Monte",,,,way
 "Escadinhas Costa do Castelo",,,,way
 "Escadinhas Damasceno Monteiro",,,,way
+"Escadinhas Rolantes da Saúde",,,,way
 "Escadinhas da Achada",,,,way
 "Escadinhas da Barroca",,,,way
 "Escadinhas da Liberdade",,,,way
@@ -1365,6 +1367,7 @@ Parada,,,,way
 "Rampa do Mercado",,,,way
 "Regueirão dos Anjos",,,,way
 "River Gap",,,,way
+Roma-Areeiro,,,,way
 "Rosa dos Ventos",,,,relation
 "Rossio de Palma",,,,way
 "Rossio do Levante",,,,way
@@ -1766,7 +1769,6 @@ Parada,,,,way
 "Rua C da Malha 14",,,,way
 "Rua C da Quinta do Ferro",,,,way
 "Rua C do Bairro da Liberdade",,,,way
-"Rua C do PUAL",,,,way
 "Rua Cabo Floriano de Morais",,,,way
 "Rua Cabo Manuel Leitão",,,,way
 "Rua Caetano Alberto",,,,way
@@ -2222,8 +2224,8 @@ Parada,,,,way
 "Rua Frei Francisco Foreiro",,,,way
 "Rua Frei Joaquim de Santa Rosa de Viterbo",,,,way
 "Rua Frei Luís de Granada",,,,way
+"Rua Frei Manuel Cardoso",,,,way
 "Rua Frei Manuel do Cenáculo",,,,way
-"Rua Frei Miguel Cardoso",,,,way
 "Rua Frei Tomé de Jesus",,,,way
 "Rua Freitas Gazul",,,,way
 "Rua Fresca",,,,way
@@ -2719,6 +2721,7 @@ Parada,,,,way
 "Rua Nunes Claro",,,,way
 "Rua Nuno Bragança",,,,way
 "Rua Nuno Ferrari",,,,way
+"Rua Nuno Teotónio Pereira",,,,way
 "Rua Nuno Tristão",,,,way
 "Rua O",,,,way
 "Rua Octávio Pato",,,,way
@@ -4131,6 +4134,7 @@ Parada,,,,way
 "Trilho do Mocho",,,,way
 "Trilho do Penhasco",,,,way
 "Trilho do Vale da Quinta da Montanha",,,,way
+"Trilho dos Sobreiros",,,,way
 "Trilhos da Luneta",,,,way
 "Trilhos do Moinho",,,,way
 Triste-Feia,,,,way
