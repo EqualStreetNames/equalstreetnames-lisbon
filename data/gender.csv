@@ -1,6 +1,7 @@
 name,source,gender,wikidata,type
 "Avenida Madame Curie",wikidata,F,Q7186,way
-"Miradouro Sophia de Mello Breyner Andresen",wikidata,F,Q235992,way
+"Miradouro Sophia de Mello Breyner Andresen",wikidata,F,Q235992,relation
+"Largo do Chiado",wikidata,M,Q2857761,relation+way
 "Ponte Vasco da Gama",wikidata,M,Q7328,way
 "Praça Duque de Saldanha",wikidata,M,Q128668,way
 "Praça Francisco Sá Carneiro",wikidata,M,Q367010,way

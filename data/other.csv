@@ -439,7 +439,6 @@ name,source,gender,wikidata,type
 "Beco dos Toucinheiros",,,,way
 "Beco dos Três Engenhos",,,,way
 "Beco dos Vidros",,,,way
-Benfica,,,,way
 "Boqueirão da Ponte da Lama",,,,way
 "Boqueirão da Ponte de Lama",,,,way
 "Boqueirão da Praia da Galé",,,,way
@@ -646,7 +645,6 @@ DH,,,,way
 "Eixo Central",,,,way
 "Eixo Norte-Sul",,,,way
 "Entrada da Estufa Fria",,,,way
-Entrecampos,,,,way
 "Escadaria José António Marques",,,,way
 "Escadaria das Necessidades",,,,way
 "Escadas à Rua Rainha Dona Brites",,,,way
@@ -940,7 +938,6 @@ Kamikaze,,,,way
 "Largo do Chafariz de Dentro",,,,way
 "Largo do Chão do Loureiro",,,,way
 "Largo do Chavariz de Dentro",,,,way
-"Largo do Chiado",,,,relation+way
 "Largo do Conde Barão",,,,way
 "Largo do Conde de Bonfim",,,,way
 "Largo do Conde de Pombeiro",,,,way
@@ -1002,6 +999,7 @@ Kamikaze,,,,way
 "Miradouro de Santo Amaro",,,,relation
 "Miradouro do Bairro do Alvito",,,,way
 "Miradouro do Monte Agudo",,,,way
+"Miradouro do Pilar 7",,,,way
 "Miradouro do Recolhimento",,,,way
 "Miradouro dos Moinhos do Mocho",,,,relation
 "Outeirinho do Mirante",,,,way
@@ -1367,11 +1365,10 @@ Parada,,,,way
 "Rampa do Mercado",,,,way
 "Regueirão dos Anjos",,,,way
 "River Gap",,,,way
-Roma-Areeiro,,,,way
 "Rosa dos Ventos",,,,relation
 "Rossio de Palma",,,,way
 "Rossio do Levante",,,,way
-"Rossio dos Olivais",,,,way
+"Rossio dos Olivais",,,,relation+way
 "Rotunda 1 ao Vale de Chelas",,,,way
 "Rotunda Almirante Pinheiro de Azevedo",,,,way
 "Rotunda António Dias Lourenço",,,,way
@@ -1409,7 +1406,6 @@ Roma-Areeiro,,,,way
 "Rua 1º de Maio",,,,way
 "Rua 1 do Bairro da Boavista",,,,way
 "Rua 10",,,,way
-"Rua 10 do PUAL",,,,way
 "Rua 11",,,,way
 "Rua 12",,,,way
 "Rua 13",,,,way
@@ -3034,6 +3030,7 @@ Roma-Areeiro,,,,way
 "Rua Simões Telhadas",,,,way
 "Rua Simões de Almeida",,,,way
 "Rua Sinais de Fogo",,,,way
+"Rua Snu Abecassis",,,,way
 "Rua Soares de Passos",,,,way
 "Rua Soares dos Reis",,,,way
 "Rua Soeiro Pereira Gomes",,,,way
@@ -3563,6 +3560,7 @@ Roma-Areeiro,,,,way
 "Rua do Eufrates",,,,way
 "Rua do Ferragial",,,,way
 "Rua do Figueredo",,,,way
+"Rua do Fogo de Santelmo",,,,way
 "Rua do Forte de Santa Apolónia",,,,way
 "Rua do Funchal",,,,way
 "Rua do Gabaret",,,,way
