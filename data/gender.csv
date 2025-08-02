@@ -43,12 +43,14 @@ name,source,gender,wikidata,type
 "Avenida Álvaro Cunhal",wikidata,M,Q250919,way
 "Avenida António Augusto de Aguiar",wikidata,M,Q2857725,way
 "Avenida António José de Almeida",wikidata,M,Q551542,way
+"Avenida António de Serpa",wikidata,M,Q558201,way
 "Avenida Aquilino Ribeiro Machado",wikidata,M,Q16493173,way
-"Avenida Barbosa du Bocage",wikidata,M,Q630116,way
+"Avenida Barbosa du Bocage",wikidata,M,Q1709686,way
 "Avenida Calouste Gulbenkian",wikidata,M,Q345538,way
 "Avenida Carlos Paredes",wikidata,M,Q952965,way
 "Avenida Casal Ribeiro",wikidata,M,Q528812,way
 "Avenida Columbano Bordalo Pinheiro",wikidata,M,Q1112288,way
+"Avenida Conde de Valbom",wikidata,M,Q10307428,way
 "Avenida Conselheiro Fernando de Sousa",wikidata,M,Q10309384,way
 "Avenida David Mourão-Ferreira",wikidata,M,Q1175773,way
 "Avenida Dom João II",wikidata,M,Q217637,way
@@ -68,24 +70,31 @@ name,source,gender,wikidata,type
 "Avenida Infante Santo",wikidata,M,Q552022,way
 "Avenida João Crisóstomo",wikidata,M,Q331394,way
 "Avenida João XXI",wikidata,M,Q172916,way
+"Avenida Júlio Dinis",wikidata,M,Q980339,way
 "Avenida Luís Bívar",wikidata,M,Q10321323,way
 "Avenida Magalhães Lima",wikidata,M,Q3476927,way
 "Avenida Manuel da Maia",wikidata,M,Q10324587,way
 "Avenida Marechal António de Spínola",wikidata,M,Q336884,way
 "Avenida Marechal Gomes da Costa",wikidata,M,Q470961,way
+"Avenida Marquês de Tomar",wikidata,M,Q130870,way
 "Avenida Miguel Bombarda",wikidata,M,Q952551,way
 "Avenida Miguel Torga",wikidata,M,Q44851,way
 "Avenida Mouzinho de Albuquerque",wikidata,M,Q2748222,way
 "Avenida Nuno Krus Abecasis",wikidata,M,Q1379494,way
 "Avenida Óscar Monteiro Torres",wikidata,M,Q3357019,way
+"Avenida Poeta Mistral",wikidata,M,Q42596,way
 "Avenida Professor Egas Moniz",wikidata,M,Q273219,way
 "Avenida Sacadura Cabral",wikidata,M,Q3121506,way
+"Avenida Santos Dumont",wikidata,M,Q313211,way
 "Avenida Sidónio Pais",wikidata,M,Q356691,way
 "Avenida Vergílio Ferreira",wikidata,M,Q643437,way
+"Avenida Visconde de Valmor",wikidata,M,Q117356408,way
+"Avenida da Liberdade",wikidata,M,Q85868429,way
 "Avenida do Santo Condestável",wikidata,M,Q374056,way
 "Ciclovia Avenida Infante Dom Henrique",wikidata,M,Q182897,way
 "Ciclovia Avenida Paulo VI",wikidata,M,Q16975,way
 "Ciclovia da Avenida Fontes Pereira de Melo",wikidata,M,Q611180,way
+"Largo Azeredo Perdigão",wikidata,M,Q1709713,way
 "Largo Bartolomeu Dias",wikidata,M,Q130377,way
 "Largo do Chiado",wikidata,M,Q2857761,relation+way
 "Ponte Vasco da Gama",wikidata,M,Q7328,way
@@ -101,8 +110,10 @@ name,source,gender,wikidata,type
 "Praça Marquês de Pombal (Rotunda)",wikidata,M,Q319511,way
 "Praça Martim Moniz",wikidata,M,Q3028496,relation+way
 "Praça Paiva Couceiro",wikidata,M,Q1384253,relation+way
+"Praça do Duque de Saldanha",wikidata,M,Q128668,way
 "Rotunda Almirante Pinheiro de Azevedo",wikidata,M,Q722270,way
 "Rua Abade Faria",wikidata,M,Q306914,way
+"Rua Actor Alves da Costa",wikidata,M,Q9608980,way
 "Rua Actor Isidoro",wikidata,M,Q105946024,way
 "Rua Actor Taborda",wikidata,M,Q3182116,way
 "Rua Acúrsio Pereira",wikidata,M,Q9581893,way
@@ -113,10 +124,12 @@ name,source,gender,wikidata,type
 "Rua Alberto Osório de Castro",wikidata,M,Q16487059,way
 "Rua Alexandre Herculano",wikidata,M,Q520688,way
 "Rua Almada Negreiros",wikidata,M,Q1376821,way
+"Rua Almirante Barroso",wikidata,M,Q5483649,way
 "Rua Alves Redol",wikidata,M,Q448851,way
 "Rua Amílcar Cabral",wikidata,M,Q213416,way
 "Rua Andrade Corvo",wikidata,M,Q10312425,way
 "Rua Antero de Figueiredo",wikidata,M,Q16490948,way
+"Rua António Cândido",wikidata,M,Q9618967,way
 "Rua António Champalimaud",wikidata,M,Q4777545,way
 "Rua António Enes",wikidata,M,Q2857751,way
 "Rua António Lopes Ribeiro",wikidata,M,Q611112,way
@@ -143,9 +156,13 @@ name,source,gender,wikidata,type
 "Rua Dom Francisco Manuel de Melo",wikidata,M,Q426142,way
 "Rua Dom João V",wikidata,M,Q299650,way
 "Rua Dom Luís I",wikidata,M,Q156175,way
+"Rua Dom Luís de Noronha",wikidata,M,Q135268010,way
 "Rua Dom Pedro V",wikidata,M,Q156048,relation+way
 "Rua Doutor Estêvão de Vasconcelos",wikidata,M,Q10277633,way
+"Rua Doutor Nicolau de Bettencourt",wikidata,M,Q10336760,way
+"Rua Doutor Silva Teles",wikidata,M,Q10285244,way
 "Rua Egas Moniz",wikidata,M,Q1296765;Q273219,way
+"Rua Engenheiro Vieira da Silva",wikidata,M,Q25449172,way
 "Rua Eugénio de Castro",wikidata,M,Q1373516,way
 "Rua Fausto Guedes Teixeira",wikidata,M,Q10280326,way
 "Rua Fernando Caldeira",wikidata,M,Q1406620,way
@@ -175,6 +192,8 @@ name,source,gender,wikidata,type
 "Rua Luís Cristino da Silva",wikidata,M,Q10321382,way
 "Rua Machado de Castro",wikidata,M,Q1690864,way
 "Rua Mário de Sá Carneiro",wikidata,M,Q466945,way
+"Rua Marquês de Sá da Bandeira",wikidata,M,Q669820,way
+"Rua Martens Ferrão",wikidata,M,Q10326827,way
 "Rua Martin Luther King",wikidata,M,Q8027,way
 "Rua Melo Antunes",wikidata,M,Q736289,way
 "Rua Mouzinho da Silveira",wikidata,M,Q1532667,way
@@ -196,6 +215,7 @@ name,source,gender,wikidata,type
 "Rua Serpa Pinto",wikidata,M,Q921705,way
 "Rua Sousa Martins",wikidata,M,Q1709664,way
 "Rua Stuart Carvalhais",wikidata,M,Q10374384,way
+"Rua Tenente Espanca",wikidata,M,Q135267986,way
 "Rua Tomás Ribeiro",wikidata,M,Q1721732,way
 "Rua Vasco da Gama Fernandes",wikidata,M,Q7916430,way
 "Rua Viriato",wikidata,M,Q331889,way
