@@ -3,28 +3,45 @@ name,source,gender,wikidata,type
 "Alameda das Linhas de Torres",wikidata,,Q1826718,way
 "Avenida 5 de Outubro",wikidata,,Q638903,way
 "Avenida Cidade de Lourenço Marques",wikidata,,Q3889,way
+"Avenida Cidade de Luanda",wikidata,,Q3897,way
+"Avenida Cidade de Praga",wikidata,,Q1085,way
 "Avenida Defensores de Chaves",wikidata,,Q7375105,way
 "Avenida Praia da Vitória",wikidata,,Q2890321,way
 "Avenida da Boa Esperança",wikidata,,Q4092,way
+"Avenida da Ilha da Madeira",wikidata,,Q30188,way
 "Avenida da República",wikidata,,Q45,way
 "Avenida da República (Túnel)",wikidata,,Q45,way
+"Avenida da Torre de Belém",wikidata,,Q215003,way
 "Avenida das Forças Armadas",wikidata,,Q1074294,way
+"Avenida das Nações Unidas",wikidata,,Q1065,way
 "Avenida de Berlim",wikidata,,Q64,way
 "Avenida de Berna",wikidata,,Q70,way
+"Avenida de Brasília",wikidata,,Q2844,way
 "Avenida de Pádua",wikidata,,Q617,way
 "Avenida de Paris",wikidata,,Q90,way
 "Avenida de Roma",wikidata,,Q220,way
+"Avenida de Ulisses",wikidata,,Q47231,way
 "Avenida do Atlântico",wikidata,,Q97,way
 "Avenida do Brasil",wikidata,,Q155,way
+"Avenida do Colégio Militar",wikidata,,Q5150411,way
 "Avenida do Índico",wikidata,,Q1239,way
 "Avenida do Mediterrâneo",wikidata,,Q4918,way
 "Avenida do México",wikidata,,Q96,way
 "Avenida do Pacífico",wikidata,,Q98,way
+"Avenida do Restelo",wikidata,,Q10359913,way
 "Avenida do Rio de Janeiro",wikidata,,Q8678,way
 "Avenida dos Estados Unidos da América",wikidata,,Q30,way
+"Calçada da Ajuda",wikidata,,Q413311,way
+"Calçadinha do Tijolo",wikidata,,Q40089,way
 "Campo das Cebolas",wikidata,,Q23485,way
+"Campo dos Mártires da Pátria",wikidata,,Q126737000,way
 "Ciclovia Avenida Cidade de Luanda",wikidata,,Q3897,way
 "Ciclovia Praça de Espanha",wikidata,,Q29,way
+"Costa do Castelo",wikidata,,Q636780,way
+"Estrada de Benfica",wikidata,,Q534230,way
+"Estrada de Chelas",wikidata,,Q8345179,way
+"Largo da Sé",wikidata,,Q432290,way
+"Largo de Chelas",wikidata,,Q8345179,way
 "Passeio das Tágides",wikidata,,Q10385807,way
 "Passeio de Neptuno",wikidata,,Q3954,way
 "Passeio do Tejo",wikidata,,Q14294,way
@@ -36,7 +53,11 @@ name,source,gender,wikidata,type
 "Praça de Londres",wikidata,,Q84,way
 "Praça de Macau",wikidata,,Q14773,way
 "Praça do Chile",wikidata,,Q298,way
+"Praça do Império",wikidata,,Q200464,relation+way
 "Praça dos Restauradores",wikidata,,Q986738,way
+"Rotunda República Argentina",wikidata,,Q414,way
+"Rotunda República da Colômbia",wikidata,,Q739,way
+"Rotunda da Expo 98",wikidata,,Q1139414,way
 "Rua Cidade da Beira",wikidata,,Q211563,way
 "Rua Cidade da Praia",wikidata,,Q3751,way
 "Rua Cidade de Benguela",wikidata,,Q214248,way
@@ -45,6 +66,7 @@ name,source,gender,wikidata,type
 "Rua Cidade de Carmona",wikidata,,Q911191,way
 "Rua Cidade de Inhambane",wikidata,,Q456577,way
 "Rua Cidade de João Belo",wikidata,,Q318299,way
+"Rua Cidade de Lisboa",wikidata,,Q597,way
 "Rua Cidade de Liverpool",wikidata,,Q24826,way
 "Rua Cidade de Lobito",wikidata,,Q223914,way
 "Rua Cidade de Malange",wikidata,,Q621001,way
@@ -56,7 +78,9 @@ name,source,gender,wikidata,type
 "Rua Cidade de Quelimane",wikidata,,Q318306,way
 "Rua Cidade de Tete",wikidata,,Q388242,way
 "Rua Cidade de Vila Cabral",wikidata,,Q667650,way
+"Rua Marquês de Ponte de Lima",wikidata,,Q10326730,way
 "Rua Rio Ave",wikidata,,Q14591,way
+"Rua Rio Cávado",wikidata,,Q14582,way
 "Rua Rio Guadiana",wikidata,,Q14305,way
 "Rua Rio Lis",wikidata,,Q1440763,way
 "Rua Rio Minho",wikidata,,Q14554,way
@@ -67,14 +91,21 @@ name,source,gender,wikidata,type
 "Rua Rio Tua",wikidata,,Q14626,way
 "Rua Rio Zêzere",wikidata,,Q15671,way
 "Rua da Assunção",wikidata,,Q162691,way
+"Rua da Cintura do Porto de Lisboa",wikidata,,Q3398511,way
+"Rua da Misericórdia",wikidata,,Q10367731,way
+"Rua da Mouraria",wikidata,,Q987548,way
+"Rua da Voz do Operário",wikidata,,Q10372830,way
 "Rua de Angola",wikidata,,Q2826232,way
 "Rua de Cabo Verde",wikidata,,Q3023340;Q1011,way
+"Rua de Campolide",wikidata,,Q1031527,way
 "Rua de Macau",wikidata,,Q14773,way
 "Rua de Manhiça",wikidata,,Q10323671,way
 "Rua de Moçambique",wikidata,,Q1029,way
 "Rua de Timor",wikidata,,Q574,way
 "Rua do Alecrim",wikidata,,Q102240169,way
+"Rua do Arco do Marquês de Alegrete",wikidata,,Q23005906,way
 "Rua do Conde de Redondo",wikidata,,Q7126266,way
+"Rua do Espírito Santo",wikidata,,Q37302,way
 "Rua do Mar Vermelho",wikidata,,Q23406,way
 "Rua do Mar do Norte",wikidata,,Q1693,way
 "Rua do Pólo Norte",wikidata,,Q934,way
@@ -82,6 +113,7 @@ name,source,gender,wikidata,type
 "Rua do Rio Corgo",wikidata,,Q3325117,way
 "Rua do Rio Douro",wikidata,,Q14299,way
 "Rua do Rio Vouga",wikidata,,Q15653,way
+"Rua dos Corvos",wikidata,,Q43365,way
 "Rua dos Douradores",wikidata,,Q281795,way
 "Terreiro das Missas",wikidata,,Q132612,way
 "2ª Rua Particular",,,,way
@@ -89,7 +121,6 @@ name,source,gender,wikidata,type
 "Access to Metro 'Aeroporto'",,,,way
 "Acesso Avenida da Ponte",,,,way
 "Acesso Metro Laranjeiras",,,,way
-"Acesso Olival Basto",,,,way
 "Acesso à Ponte 25 de Abril",,,,way
 "Acesso ao Eixo N-S",,,,way
 "Acesso de Sete Rios",,,,way
@@ -147,15 +178,10 @@ name,source,gender,wikidata,type
 "Avenida Alves Redol",,,,way
 "Avenida António Augusto Aguiar",,,,way
 "Avenida Avelino Teixeira da Mota",,,,way
-"Avenida Carlos Pinhão",,,,way
 "Avenida Cidade de Bratislava",,,,way
-"Avenida Cidade de Luanda",,,,way
-"Avenida Cidade de Praga",,,,way
 "Avenida Cidade do Porto",,,,way
 "Avenida Conselheiro Barjona de Freitas",,,,way
 "Avenida Coronel Eduardo Galhardo",,,,way
-"Avenida Dom Carlos I",,,,way
-"Avenida Dom Rodrigo da Cunha",,,,way
 "Avenida Dom Vasco da Gama",,,,way
 "Avenida Doutor Arlindo Vicente",,,,way
 "Avenida Doutor Augusto de Castro",,,,way
@@ -166,23 +192,18 @@ name,source,gender,wikidata,type
 "Avenida Francisco Salgado Zenha",,,,way
 "Avenida François Mitterrand",,,,way
 "Avenida Frei Miguel Contreiras",,,,way
-"Avenida General Correia Barreto",,,,way
 "Avenida General Correia Barreto/Radial de Benfica",,,,way
 "Avenida General Norton de Matos",,,,way
 "Avenida General Roçadas",,,,way
 "Avenida Glicínia Quartin",,,,way
 "Avenida Gomes Pereira",,,,way
 "Avenida Grão Vasco",,,,way
-"Avenida João Paulo II",,,,way
-"Avenida José Malhoa",,,,way
-"Avenida José Manuel de Mello",,,,way
-"Avenida José Régio",,,,way
+"Avenida José Manuel de Mello",,,,relation+way
 "Avenida Lusíada",,,,way
 "Avenida Machado Santos",,,,way
 "Avenida Marconi",,,,way
 "Avenida Marechal Craveiro Lopes",,,,way
 "Avenida Marechal Craveiro Lopes/2ª Circular",,,,way
-"Avenida Marechal Francisco Costa Gomes",,,,way
 "Avenida Marechal Francisco da Costa Gomes",,,,way
 "Avenida Marechal Teixeira Rebelo",,,,way
 "Avenida Marginal",,,,way
@@ -191,13 +212,11 @@ name,source,gender,wikidata,type
 "Avenida Nuno Krus Abecassis",,,,way
 "Avenida Padre Cruz",,,,way
 "Avenida Padre Manuel da Nóbrega",,,,way
-"Avenida Paulo VI",,,,way
 "Avenida Pedro Álvares Cabral",,,,way
 "Avenida Professor Aníbal de Bettencourt",,,,way
 "Avenida Professor Francisco Gama Carneiro",,,,way
 "Avenida Professor Francisco da Gama Caeiro",,,,way
 "Avenida Professor Gama Pinto",,,,way
-"Avenida Rainha Dona Amélia",,,,way
 "Avenida Rainha Dona Leonor",,,,way
 "Avenida República da Bulgária",,,,way
 "Avenida Ressano Garcia",,,,way
@@ -209,24 +228,17 @@ name,source,gender,wikidata,type
 "Avenida Tenente Martins",,,,way
 "Avenida Ventura Terra",,,,way
 "Avenida da Igreja",,,,way
-"Avenida da Ilha da Madeira",,,,way
 "Avenida da Índia",,,,way
 "Avenida da Peregrinação",,,,way
 "Avenida da Ribeira das Naus",,,,way
-"Avenida da Torre de Belém",,,,way
 "Avenida da Ucrânia",,,,way
 "Avenida da Universidade Técnica",,,,way
 "Avenida das Descobertas",,,,way
-"Avenida das Nações Unidas",,,,way
 "Avenida de António José de Almeida",,,,way
-"Avenida de Brasília",,,,way
 "Avenida de Ceuta",,,,way
 "Avenida de Madrid",,,,way
 "Avenida de Moscavide",,,,way
-"Avenida de Ulisses",,,,way
-"Avenida do Colégio Militar",,,,way
 "Avenida do Ralis",,,,way
-"Avenida do Restelo",,,,way
 "Avenida do Uruguai",,,,way
 "Avenida dos Bombeiros",,,,way
 "Avenida dos Combatentes",,,,way
@@ -386,8 +398,8 @@ name,source,gender,wikidata,type
 "Beco do Hospital da Marinha",,,,way
 "Beco do Imaginário",,,,way
 "Beco do Índia Pena",,,,way
-"Beco do Jasmim",,,,way
 "Beco do Jasmim à Rua João do Outeiro",,,,way
+"Beco do Jasmim à Rua de São Cristóvão",,,,way
 "Beco do Leão",,,,way
 "Beco do Loureiro",,,,way
 "Beco do Machadinho",,,,way
@@ -463,7 +475,6 @@ name,source,gender,wikidata,type
 "Calçada Nova do Colégio",,,,way
 "Calçada Ribeiro Santos",,,,way
 "Calçada Salvador Correia de Sá",,,,way
-"Calçada da Ajuda",,,,way
 "Calçada da Bica Grande",,,,way
 "Calçada da Bica Pequena",,,,way
 "Calçada da Boa Hora",,,,way
@@ -492,10 +503,8 @@ name,source,gender,wikidata,type
 "Calçada de Santa Catarina a Chelas",,,,way
 "Calçada de Santana",,,,way
 "Calçada de Santo Amaro",,,,way
-"Calçada de Santo André",,,,way
 "Calçada de Santo António",,,,way
 "Calçada de São Francisco",,,,way
-"Calçada de São Lourenço",,,,way
 "Calçada de São Vicente",,,,way
 "Calçada do Baltazar",,,,way
 "Calçada do Cabra",,,,way
@@ -539,11 +548,8 @@ name,source,gender,wikidata,type
 "Calçada dos Sete Moinhos",,,,way
 "Calçada dos Vinagreiros",,,,way
 "Calçadinha da Figueira",,,,way
-"Calçadinha de Santo Estevão",,,,way
-"Calçadinha de Santo Estêvão",,,,way
 "Calçadinha de São Miguel",,,,way
 "Calçadinha de São Vicente",,,,way
-"Calçadinha do Tijolo",,,,way
 "Calçadinha dos Olivais",,,,way
 "Caminho Alto do Varejão",,,,way
 "Caminho Amália Rodrigues",,,,way
@@ -566,7 +572,6 @@ name,source,gender,wikidata,type
 "Campo Pequeno",,,,way
 "Campo das Amoreiras",,,,way
 "Campo de Santa Clara",,,,way
-"Campo dos Mártires da Pátria",,,,way
 "Caracol da Graça",,,,way
 "Casal Evangelista",,,,way
 "Casal de Colares",,,,way
@@ -593,7 +598,6 @@ Castor,,,,way
 "Ciclovia Entrecampos",,,,way
 "Ciclovia Estrada da Torre",,,,way
 "Ciclovia Fernão Mendes Pinto",,,,way
-"Ciclovia Martim Moniz",,,,way
 "Ciclovia Parque de Campismo",,,,way
 "Ciclovia Popup Alameda dos Oceanos",,,,way
 "Ciclovia Popup Via do Oriente",,,,way
@@ -624,7 +628,6 @@ Claustro,,,,relation
 "Corredor Verde Monsanto-Parque Eduardo VII",,,,way
 "Corredor Verde do Vale de Alcântara",,,,way
 "Corredor da Torrinha",,,,way
-"Costa do Castelo",,,,way
 "Cruz das Oliveiras",,,,way
 "Cruzes da Sé",,,,way
 "Cunhal das Bolas",,,,way
@@ -660,7 +663,6 @@ DH,,,,way
 "Escadinhas de Dom Gastão",,,,way
 "Escadinhas de João de Deus",,,,way
 "Escadinhas de Santo Amaro",,,,way
-"Escadinhas de Santo Estêvão",,,,way
 "Escadinhas de São Crispim",,,,way
 "Escadinhas de São Cristóvão",,,,way
 "Escadinhas de São João Nepomuceno",,,,way
@@ -703,9 +705,7 @@ DH,,,,way
 "Estrada das Laranjeiras",,,,way
 "Estrada das Oliveiras de Baixo",,,,way
 "Estrada de A-da-Maia",,,,way
-"Estrada de Benfica",,,,way
 "Estrada de Caselas",,,,way
-"Estrada de Chelas",,,,way
 "Estrada de Marvila",,,,way
 "Estrada de Monsanto",,,,way
 "Estrada de Montes Claros",,,,way
@@ -745,7 +745,6 @@ DH,,,,way
 "Impasse Rua Padre Américo",,,,way
 "Impasse Um à Rua Capitão-Mor Pedro Teixeira",,,,way
 "Impasse à Rua José do Patrocínio",,,,way
-"Impasse à Rua Marciano Henriques da Silva",,,,way
 "Impasse à Rua Nina Marques Pereira",,,,way
 "Impasse à Rua das Pedralvas",,,,way
 "Impasse do Bairro das Pedralvas",,,,way
@@ -774,8 +773,6 @@ Kamikaze,,,,way
 "Largo Coronel Vasconcelos Dias",,,,way
 "Largo Cristóvão Aires",,,,way
 "Largo Dom João",,,,way
-"Largo Dom Manuel I",,,,way
-"Largo Dona Estefânia",,,,way
 "Largo Dona Rosa",,,,way
 "Largo Doutor António Sousa de Macedo",,,,way
 "Largo Doutor António Viana",,,,way
@@ -834,7 +831,6 @@ Kamikaze,,,,way
 "Largo São João Baptista",,,,way
 "Largo Trindade Coelho",,,,way
 "Largo Vitoriano Braga",,,,way
-"Largo Vitorino Damásio",,,,way
 "Largo Willy Brandt",,,,way
 "Largo da Academia Nacional de Belas Artes",,,,relation+way
 "Largo da Achada",,,,way
@@ -865,7 +861,6 @@ Kamikaze,,,,way
 "Largo da Quinta das Salgadas",,,,way
 "Largo da Revista Militar",,,,way
 "Largo da Rosa",,,,way
-"Largo da Sé",,,,way
 "Largo da Severa",,,,way
 "Largo da Trindade",,,,way
 "Largo das Alcaçarias",,,,way
@@ -880,7 +875,6 @@ Kamikaze,,,,way
 "Largo das Portas do Sol",,,,way
 "Largo das Roseiras",,,,way
 "Largo de Andaluz",,,,way
-"Largo de Chelas",,,,way
 "Largo de Curvo Semedo",,,,way
 "Largo de Domingos Tendeiro",,,,way
 "Largo de Estação de Braço de Prata",,,,way
@@ -893,7 +887,6 @@ Kamikaze,,,,way
 "Largo de Santo Antoninho",,,,way
 "Largo de Santo António da Sé",,,,way
 "Largo de Santo Estevão",,,,way
-"Largo de Santo Estêvão",,,,way
 "Largo de Santos",,,,way
 "Largo de Santos o Novo",,,,way
 "Largo de Santos-o-Velho",,,,way
@@ -906,7 +899,6 @@ Kamikaze,,,,way
 "Largo de São João da Mata",,,,way
 "Largo de São Julião",,,,way
 "Largo de São Mamede",,,,way
-"Largo de São Martinho",,,,way
 "Largo de São Miguel",,,,way
 "Largo de São Paulo",,,,way
 "Largo de São Rafael",,,,way
@@ -945,7 +937,6 @@ Kamikaze,,,,way
 "Largo do General Sousa Brandão",,,,way
 "Largo do Intendente Pina Manique",,,,way
 "Largo do Jacinto",,,,way
-"Largo do Jasmim",,,,way
 "Largo do Jogo da Bola",,,,way
 "Largo do Leão",,,,way
 "Largo do Limoeiro",,,,way
@@ -1218,13 +1209,11 @@ Parada,,,,way
 "Porta do Tejo",,,,way
 "Portas do Sol",,,,way
 "Postigo Marquês do Lavradio",,,,way
-"Praça Afonso de Albuquerque",,,,relation+way
 "Praça Afonso do Paço",,,,way
 "Praça Aires de Ornelas",,,,way
 "Praça Álvaro Ponce Dentinho",,,,way
 "Praça Andrade Caminha",,,,way
 "Praça António Baião",,,,way
-"Praça António José de Almeida",,,,way
 "Praça António Sardinha",,,,way
 "Praça Artur Portela",,,,way
 "Praça Baden Powell",,,,way
@@ -1263,7 +1252,6 @@ Parada,,,,way
 "Praça Nuno Rodrigues dos Santos",,,,way
 "Praça Pasteur",,,,way
 "Praça Pedonal da Alameda da Universidade",,,,way
-"Praça Príncipe Perfeito",,,,way
 "Praça Professor Rodriges Lapa",,,,way
 "Praça Professor Santos Andrea",,,,way
 "Praça Rainha Dona Filipa",,,,way
@@ -1271,7 +1259,6 @@ Parada,,,,way
 "Praça Raúl Lino",,,,way
 "Praça Rocha Martins",,,,way
 "Praça São Francisco de Assis",,,,relation
-"Praça São João Bosco",,,,way
 "Praça Silvestre Pinheiro Ferreira",,,,way
 "Praça Sócrates da Costa",,,,way
 "Praça Tenente Evangelista Rodrigues",,,,way
@@ -1295,20 +1282,15 @@ Parada,,,,way
 "Praça de Dio",,,,way
 "Praça de Goa",,,,way
 "Praça de Itália",,,,way
-"Praça de Luís de Camões",,,,way
 "Praça de Malaca",,,,way
-"Praça de São Francisco Xavier",,,,way
 "Praça de São Paulo",,,,way
 "Praça do Aeroporto",,,,way
 "Praça do Caramão",,,,way
 "Praça do Comércio",,,,relation+way
-"Praça do Duque da Terceira",,,,relation+way
-"Praça do Império",,,,relation+way
 "Praça do Município",,,,way
 "Praça do Norte",,,,way
 "Praça do Oriente",,,,relation
-"Praça do Príncipe Real",,,,way
-"Praça do Venturoso",,,,way
+"Praça do Tejo",,,,way
 "Praça dos Congressos",,,,way
 "Praceta A à Avenida Cidade de Lourenço Marques",,,,way
 "Praceta Adolfo Ayala",,,,way
@@ -1332,7 +1314,6 @@ Parada,,,,way
 "Quinta da Curraleira",,,,way
 "Quinta do Palô",,,,way
 "Radial de Benfica",,,,way
-"Radial de Odivelas",,,,way
 "Ramal de Benfica",,,,way
 "Rampa Necesidades",,,,way
 "Rampa das Necesidades",,,,way
@@ -1344,7 +1325,6 @@ Parada,,,,way
 "Rossio do Levante",,,,way
 "Rossio dos Olivais",,,,relation+way
 "Rotunda 1 ao Vale de Chelas",,,,way
-"Rotunda António Dias Lourenço",,,,way
 "Rotunda Coronel Vítor Alves",,,,way
 "Rotunda Engenheiro Cunha Leal",,,,way
 "Rotunda Manuel Tainha",,,,way
@@ -1352,16 +1332,11 @@ Parada,,,,way
 "Rotunda Nelson Mandela",,,,way
 "Rotunda Norte",,,,way
 "Rotunda Pupilos do Exército",,,,way
-"Rotunda República Argentina",,,,way
-"Rotunda República da Colômbia",,,,way
 "Rotunda Sul",,,,way
-"Rotunda Visconde de Alvalade",,,,way
 "Rotunda à Avenida de Pádua",,,,way
 "Rotunda à Rua B e Rua D do PUAL",,,,way
 "Rotunda da Bela Vista",,,,way
 "Rotunda da Damaia",,,,way
-"Rotunda da Expo 98",,,,way
-"Rotunda da Mouzinho de Albuquerque",,,,way
 "Rotunda da Porta Norte",,,,way
 "Rotunda das Olaias",,,,way
 "Rotunda das Oliveiras",,,,way
@@ -1571,7 +1546,6 @@ Parada,,,,way
 "Rua André Brun",,,,way
 "Rua André Monteiro da Cruz",,,,way
 "Rua André Vidal de Negreiros",,,,way
-"Rua André de Gouveia",,,,way
 "Rua André de Melo e Castro",,,,way
 "Rua André de Resende",,,,way
 "Rua Andrea",,,,way
@@ -1580,7 +1554,6 @@ Parada,,,,way
 "Rua Ângelo Frondoni",,,,way
 "Rua Aníbal de Vasconcelos Esteves",,,,way
 "Rua Anjos Teixeira",,,,way
-"Rua Antão Gonçalves",,,,way
 "Rua Antero de Quental",,,,way
 "Rua Antónia Andrade",,,,way
 "Rua Antonino e Sá",,,,way
@@ -1603,7 +1576,6 @@ Parada,,,,way
 "Rua António Luís Inácio",,,,way
 "Rua António Macedo",,,,way
 "Rua António Maria Baptista",,,,way
-"Rua António Maria Cardoso",,,,way
 "Rua António Mega Ferreira",,,,way
 "Rua António Nobre",,,,way
 "Rua António Patrício",,,,way
@@ -1615,7 +1587,6 @@ Parada,,,,way
 "Rua António Raposo Tavares",,,,way
 "Rua António Saldanha",,,,way
 "Rua António Saúde",,,,way
-"Rua António Stromp",,,,way
 "Rua António Variações",,,,way
 "Rua António Vilar",,,,way
 "Rua António de Abreu",,,,way
@@ -1649,7 +1620,6 @@ Parada,,,,way
 "Rua Augusto José Vieira",,,,way
 "Rua Augusto Macedo",,,,way
 "Rua Augusto Pina",,,,way
-"Rua Augusto Rosa",,,,way
 "Rua Augusto dos Santos",,,,way
 "Rua Augusto dos Santos Teodoro",,,,way
 "Rua Aura Abranches",,,,way
@@ -1672,7 +1642,6 @@ Parada,,,,way
 "Rua Barata Feyo",,,,way
 "Rua Barbosa Cólen",,,,way
 "Rua Barroso Lopes",,,,way
-"Rua Bartolomeu Dias",,,,way
 "Rua Bartolomeu Perestrelo",,,,way
 "Rua Bartolomeu de Gusmão",,,,way
 "Rua Basílio Teles",,,,way
@@ -1701,6 +1670,7 @@ Parada,,,,way
 "Rua Bulhão Pato",,,,way
 "Rua C",,,,way
 "Rua C Projectada à Rua Rogério de Moura",,,,way
+"Rua C da Malha 14",,,,way
 "Rua C da Quinta do Ferro",,,,way
 "Rua C do Bairro da Liberdade",,,,way
 "Rua Cabo Floriano de Morais",,,,way
@@ -1714,7 +1684,6 @@ Parada,,,,way
 "Rua Cândido Guerreiro",,,,way
 "Rua Cândido de Figueiredo",,,,way
 "Rua Cândido de Oliveira",,,,way
-"Rua Canto da Maya",,,,way
 "Rua Capelo",,,,way
 "Rua Capitão Afonso Pala",,,,way
 "Rua Capitão Cook",,,,way
@@ -1735,7 +1704,6 @@ Parada,,,,way
 "Rua Cardeal Saraiva",,,,way
 "Rua Cardoso de Oliveira",,,,way
 "Rua Carlos Aboim Inglez",,,,way
-"Rua Carlos Alberto da Mota Pinto",,,,way
 "Rua Carlos Alves",,,,way
 "Rua Carlos Amaro",,,,way
 "Rua Carlos Antero Ferreira",,,,way
@@ -1773,7 +1741,6 @@ Parada,,,,way
 "Rua Casimiro Freire",,,,way
 "Rua Castelo Branco Saraiva",,,,way
 "Rua Castelo Picão",,,,way
-"Rua Castilho",,,,way
 "Rua Cavaleiro de Oliveira",,,,way
 "Rua Cecília Meireles",,,,way
 "Rua Cecílio de Sousa",,,,way
@@ -1795,7 +1762,6 @@ Parada,,,,way
 "Rua Cidade de Cádiz",,,,way
 "Rua Cidade de Cardiff",,,,way
 "Rua Cidade de Gabela",,,,way
-"Rua Cidade de Lisboa",,,,way
 "Rua Cidade de Margão",,,,way
 "Rua Cidade de Negage",,,,way
 "Rua Cidade de Porto Alexandre",,,,way
@@ -1817,7 +1783,6 @@ Parada,,,,way
 "Rua Conde das Antas",,,,way
 "Rua Conde de Almoster",,,,way
 "Rua Conde de Arnoso",,,,way
-"Rua Conde de Castelo Melhor",,,,way
 "Rua Conde de Ficalho",,,,way
 "Rua Conde de Monsaraz",,,,way
 "Rua Conde de Nova Goa",,,,way
@@ -1853,7 +1818,6 @@ Parada,,,,way
 "Rua D Projectada à Rua Rogério de Moura",,,,way
 "Rua D do Bairro da Boavista",,,,way
 "Rua Daciano Costa",,,,way
-"Rua Damião de Góis",,,,way
 "Rua Daniel Santa Rita",,,,way
 "Rua David Lopes",,,,way
 "Rua David Melgueiro",,,,way
@@ -1908,7 +1872,6 @@ Parada,,,,way
 "Rua Domingos Bontempo",,,,way
 "Rua Domingos Parente",,,,way
 "Rua Domingos Rebelo",,,,way
-"Rua Domingos Sequeira",,,,way
 "Rua Domingos dos Reis Quita",,,,way
 "Rua Dona Filipa de Vilhema",,,,way
 "Rua Dona Maria Ana de Áustria",,,,way
@@ -2033,7 +1996,6 @@ Parada,,,,way
 "Rua Fernando Lopes",,,,way
 "Rua Fernando Magalhães",,,,way
 "Rua Fernando Maurício",,,,way
-"Rua Fernando Namora",,,,way
 "Rua Fernando Palha",,,,way
 "Rua Fernando Pedroso",,,,way
 "Rua Fernando Piteira Santos",,,,way
@@ -2063,8 +2025,6 @@ Parada,,,,way
 "Rua Flor da Serra",,,,way
 "Rua Flores de Lima",,,,way
 "Rua Fonseca Benevides",,,,way
-"Rua Formosinho Sanchez",,,,way
-"Rua Forno do Tijolo",,,,way
 "Rua Fradesso da Silveira",,,,way
 "Rua Francisco Andrade",,,,way
 "Rua Francisco Baía",,,,way
@@ -2086,7 +2046,6 @@ Parada,,,,way
 "Rua Francisco Ribeiro (Ribeirinho)",,,,way
 "Rua Francisco Sanches",,,,way
 "Rua Francisco Sousa Tavares",,,,way
-"Rua Francisco Stromp",,,,way
 "Rua Francisco Tomás da Costa",,,,way
 "Rua Francisco da Conceição Silva",,,,way
 "Rua Francisco de Assis Rodrigues",,,,way
@@ -2118,7 +2077,6 @@ Parada,,,,way
 "Rua Gaivotas em Terra",,,,way
 "Rua Galileu Galilei",,,,way
 "Rua Garcia da Orta",,,,way
-"Rua Garcia de Orta",,,,way
 "Rua Garcia de Resende",,,,way
 "Rua Gaspar Corte Real",,,,way
 "Rua Gaspar de Lemos",,,,way
@@ -2147,7 +2105,6 @@ Parada,,,,way
 "Rua Gilberto Rola",,,,way
 "Rua Ginestal Machado",,,,way
 "Rua Giovanni Antinori",,,,way
-"Rua Gomes Freire",,,,way
 "Rua Gomes Leal",,,,way
 "Rua Gomes da Silva",,,,way
 "Rua Gomes de Brito",,,,way
@@ -2157,7 +2114,6 @@ Parada,,,,way
 "Rua Gonçalves Zarco",,,,way
 "Rua Gorgel do Amaral",,,,way
 "Rua Gregório Lopes",,,,way
-"Rua Gualdim Pais",,,,way
 "Rua Guarda José de Oliveira",,,,way
 "Rua Guilherme Anjos",,,,way
 "Rua Guilherme Braga",,,,way
@@ -2179,7 +2135,6 @@ Parada,,,,way
 "Rua Hermínia Silva",,,,way
 "Rua Hermínio Flora Bento",,,,way
 "Rua Hermínio Monteiro",,,,way
-"Rua Hermínio da Palma Inácio",,,,way
 "Rua Honorato José Correia",,,,way
 "Rua Horta e Silva",,,,way
 "Rua Hugo Casaes",,,,way
@@ -2218,7 +2173,6 @@ Parada,,,,way
 "Rua Jaime Batalha Reis",,,,way
 "Rua Jaime Brasil",,,,way
 "Rua Jaime Cortesão",,,,way
-"Rua Jaime Lopes Dias",,,,way
 "Rua Jaime Mendes",,,,way
 "Rua Jaime Relvas",,,,way
 "Rua Jaime Santos",,,,way
@@ -2257,7 +2211,6 @@ Parada,,,,way
 "Rua João da Nova",,,,way
 "Rua João da Silva",,,,way
 "Rua João das Regras",,,,way
-"Rua João de Barros",,,,way
 "Rua João de Castilho",,,,way
 "Rua João de Castro Osório",,,,way
 "Rua João de Deus Ramos",,,,way
@@ -2279,7 +2232,6 @@ Parada,,,,way
 "Rua Joaquim Costa",,,,way
 "Rua Joaquim Fiadeiro",,,,way
 "Rua Joaquim Maria Fernandes Marques",,,,way
-"Rua Joaquim Paço d'Arcos",,,,way
 "Rua Joaquim Rocha Cabral",,,,way
 "Rua Joaquim Rodrigo",,,,way
 "Rua Joaquina",,,,way
@@ -2320,7 +2272,6 @@ Parada,,,,way
 "Rua José Ferreira Pinto Basto",,,,way
 "Rua José Galhardo",,,,way
 "Rua José Gamboa",,,,way
-"Rua José Gomes Ferreira",,,,way
 "Rua José Inácio de Andrade",,,,way
 "Rua José Leilote",,,,way
 "Rua José Luís Garcia Rodrigues",,,,way
@@ -2336,7 +2287,6 @@ Parada,,,,way
 "Rua José Pontes",,,,way
 "Rua José Relvas",,,,way
 "Rua José Rodrigues",,,,way
-"Rua José Rodrigues Miguéis",,,,way
 "Rua José Santa Camarão",,,,way
 "Rua José Saramago",,,,way
 "Rua José Sarmento",,,,way
@@ -2358,7 +2308,6 @@ Parada,,,,way
 "Rua Josefa Maria",,,,way
 "Rua Josefa de Óbidos",,,,way
 "Rua Joseph Piel",,,,way
-"Rua Joshua Benoliel",,,,way
 "Rua Julião Quintinha",,,,way
 "Rua Júlio César Machado",,,,way
 "Rua Júlio Vaz Júnior",,,,way
@@ -2370,7 +2319,6 @@ Parada,,,,way
 "Rua Ladislau Patrício",,,,way
 "Rua Ladislau Piçarra",,,,way
 "Rua Lagoa Henriques",,,,way
-"Rua Laura Alves",,,,way
 "Rua Leandro Braga",,,,way
 "Rua Leão de Oliveira",,,,way
 "Rua Leitão de Barros",,,,way
@@ -2405,7 +2353,6 @@ Parada,,,,way
 "Rua Luís Piçarra",,,,way
 "Rua Luís Pinto Moitinho",,,,way
 "Rua Luís Sá",,,,way
-"Rua Luís de Camões",,,,way
 "Rua Luis de Freitas Branco",,,,way
 "Rua Luís de Freitas Branco",,,,way
 "Rua Luís de Sttau Monteiro",,,,way
@@ -2429,7 +2376,6 @@ Parada,,,,way
 "Rua Mamadu Sissé",,,,way
 "Rua Mantero Belard",,,,way
 "Rua Manuel António Gomes",,,,way
-"Rua Manuel Bento de Sousa",,,,way
 "Rua Manuel Bernardes",,,,way
 "Rua Manuel Caetano de Sousa",,,,way
 "Rua Manuel Correia Gomes",,,,way
@@ -2500,7 +2446,6 @@ Parada,,,,way
 "Rua Marques da Silva",,,,way
 "Rua Marquês de Fronteira",,,,way
 "Rua Marquês de Olhão",,,,way
-"Rua Marquês de Ponte de Lima",,,,way
 "Rua Marquês de Soveral",,,,way
 "Rua Marquês de Subserra",,,,way
 "Rua Martim de Pina Proença",,,,way
@@ -2605,7 +2550,6 @@ Parada,,,,way
 "Rua Paiva de Andrada",,,,way
 "Rua Palhaço Luciano",,,,way
 "Rua Palmira",,,,way
-"Rua Particular",,,,way
 "Rua Particular 1",,,,way
 "Rua Particular 1 à Calçada da Quintinha",,,,way
 "Rua Particular 2",,,,way
@@ -2617,6 +2561,7 @@ Parada,,,,way
 "Rua Particular à Calçada de Santo Amaro",,,,way
 "Rua Particular à Cascalheira",,,,way
 "Rua Particular à Estrada da Cruz",,,,way
+"Rua Particular à Manuel Soares Guedes",,,,way
 "Rua Particular à Quinta do Reguengo",,,,way
 "Rua Particular à Rua Castelo Branco Saraiva",,,,way
 "Rua Particular à Rua Frei Manuel do Cenáculo",,,,way
@@ -2707,16 +2652,13 @@ Parada,,,,way
 "Rua Professor Jorge Campinos",,,,way
 "Rua Professor Jorge da Silva Horta",,,,way
 "Rua Professor José Pinto Correia",,,,way
-"Rua Professor José Sebastião e Silva",,,,way
 "Rua Professor Juvenal Esteves",,,,way
 "Rua Professor Lima Basto",,,,way
-"Rua Professor Lindley Cintra",,,,way
 "Rua Professor Lopo de Carvalho",,,,way
 "Rua Professor Luís Reis Santos",,,,way
 "Rua Professor Luís da Cunha Gonçalves",,,,way
 "Rua Professor Machado Macedo",,,,way
 "Rua Professor Manuel Cavaleiro de Ferreira",,,,way
-"Rua Professor Manuel Valadares",,,,way
 "Rua Professor Manuel Viegas Guerreiro",,,,way
 "Rua Professor Mário Chicó",,,,way
 "Rua Professor Mário de Albuquerque",,,,way
@@ -2741,7 +2683,6 @@ Parada,,,,way
 "Rua Professor Veiga Beirão",,,,way
 "Rua Professor Veiga Ferreira",,,,way
 "Rua Professor Vieira Natividade",,,,way
-"Rua Professor Vieira de Almeida",,,,way
 "Rua Professor Xavier Morato",,,,way
 "Rua Professora Margarida Vieira Mendes",,,,way
 "Rua Professora Maria Leonor Buescu",,,,way
@@ -2767,7 +2708,6 @@ Parada,,,,way
 "Rua Rainha Dona Maria I",,,,way
 "Rua Rainha da Ilha das Cobras",,,,way
 "Rua Rainha do Congo",,,,way
-"Rua Ramalho Ortigão",,,,way
 "Rua Raquel Roque Gameiro",,,,way
 "Rua Raul Brandão",,,,way
 "Rua Raul Carapinha",,,,way
@@ -2786,7 +2726,6 @@ Parada,,,,way
 "Rua Ribeiro Sanches",,,,way
 "Rua Ricardo Espírito Santo",,,,way
 "Rua Ricardo Ornelas",,,,way
-"Rua Rio Cávado",,,,way
 "Rua Rio Coura",,,,way
 "Rua Rio Lena",,,,way
 "Rua Rio Paiva",,,,way
@@ -2819,7 +2758,6 @@ Parada,,,,way
 "Rua S",,,,way
 "Rua Sá Nogueira",,,,way
 "Rua Sabino de Sousa",,,,way
-"Rua Salgueiro Maia",,,,way
 "Rua Sam Levy",,,,way
 "Rua Sampaio Bruno",,,,way
 "Rua Sampaio e Pina",,,,way
@@ -2857,7 +2795,6 @@ Parada,,,,way
 "Rua Simões Telhadas",,,,way
 "Rua Simões de Almeida",,,,way
 "Rua Sinais de Fogo",,,,way
-"Rua Snu Abecassis",,,,way
 "Rua Soares de Passos",,,,way
 "Rua Soares dos Reis",,,,way
 "Rua Soeiro Pereira Gomes",,,,way
@@ -2936,10 +2873,8 @@ Parada,,,,way
 "Rua Virginia Quaresma",,,,way
 "Rua Virgínia Vitorino",,,,way
 "Rua Visconde de Juromenha",,,,way
-"Rua Visconde de Santarém",,,,way
 "Rua Visconde de Seabra",,,,way
 "Rua Vítor Bastos",,,,way
-"Rua Vítor Cordon",,,,way
 "Rua Vítor Damas",,,,way
 "Rua Vitor Hugo",,,,way
 "Rua Vítor Santos",,,,way
@@ -2988,7 +2923,6 @@ Parada,,,,way
 "Rua da Castiça",,,,way
 "Rua da Centieira",,,,way
 "Rua da Cintura do Porto",,,,way
-"Rua da Cintura do Porto de Lisboa",,,,way
 "Rua da Conceição",,,,way
 "Rua da Conceição da Glória",,,,way
 "Rua da Condessa",,,,way
@@ -3049,9 +2983,7 @@ Parada,,,,way
 "Rua da Mesquita",,,,way
 "Rua da Mestra",,,,way
 "Rua da Metade",,,,way
-"Rua da Misericórdia",,,,way
 "Rua da Moeda",,,,way
-"Rua da Mouraria",,,,way
 "Rua da Nau Catrineta",,,,way
 "Rua da Nossa Senhora da Ajuda",,,,way
 "Rua da Oliveira ao Carmo",,,,way
@@ -3111,7 +3043,6 @@ Parada,,,,way
 "Rua da Vila de São Martinho",,,,way
 "Rua da Vinha",,,,way
 "Rua da Vitória",,,,way
-"Rua da Voz do Operário",,,,way
 "Rua das Acácias",,,,way
 "Rua das Açucenas",,,,way
 "Rua das Amoreiras",,,,way
@@ -3190,7 +3121,6 @@ Parada,,,,way
 "Rua de Buenos Aires",,,,way
 "Rua de Caetano Palha",,,,way
 "Rua de Campo de Ourique",,,,way
-"Rua de Campolide",,,,way
 "Rua de Cascais",,,,way
 "Rua de Chibuto",,,,way
 "Rua de Cima de Chelas",,,,way
@@ -3244,7 +3174,6 @@ Parada,,,,way
 "Rua de Santo António da Sé",,,,way
 "Rua de Santo António do Zaire",,,,way
 "Rua de Santo António dos Capuchos",,,,way
-"Rua de Santo Estêvão",,,,way
 "Rua de Santos-o-Velho",,,,way
 "Rua de São Bento Menni",,,,way
 "Rua de São Bernardo",,,,way
@@ -3252,7 +3181,6 @@ Parada,,,,way
 "Rua de São Caetano",,,,way
 "Rua de São Ciro",,,,way
 "Rua de São Cristóvão",,,,way
-"Rua de São Domingos",,,,way
 "Rua de São Domingos de Benfica",,,,way
 "Rua de São Félix",,,,way
 "Rua de São Filipe Néri",,,,way
@@ -3268,17 +3196,12 @@ Parada,,,,way
 "Rua de São José",,,,way
 "Rua de São José à Charneca",,,,way
 "Rua de São Julião",,,,way
-"Rua de São Lázaro",,,,way
-"Rua de São Lourenço",,,,way
 "Rua de São Mamede",,,,way
 "Rua de São Marçal",,,,way
 "Rua de São Miguel",,,,way
-"Rua de São Paulo",,,,way
 "Rua de São Pedro",,,,way
 "Rua de São Pedro Mártir",,,,way
-"Rua de São Pedro de Alcântara",,,,way
 "Rua de São Sebastião da Pedreira",,,,way
-"Rua de São Tomé",,,,way
 "Rua de São Vicente",,,,way
 "Rua de São Vicente de Paulo",,,,way
 "Rua de Sapadores",,,,way
@@ -3308,7 +3231,6 @@ Parada,,,,way
 "Rua do Arco do Carvalhão",,,,way
 "Rua do Arco do Cego",,,,way
 "Rua do Arco do Chafariz das Terras",,,,way
-"Rua do Arco do Marquês de Alegrete",,,,way
 "Rua do Arsenal",,,,way
 "Rua do Ataíde",,,,way
 "Rua do Azevinho",,,,way
@@ -3359,12 +3281,12 @@ Parada,,,,way
 "Rua do Duque",,,,way
 "Rua do Ebro",,,,way
 "Rua do Embaixador",,,,way
-"Rua do Espírito Santo",,,,way
 "Rua do Eucalipto às Galinheiras",,,,way
 "Rua do Eufrates",,,,way
 "Rua do Ferragial",,,,way
 "Rua do Figueredo",,,,way
 "Rua do Fogo de Santelmo",,,,way
+"Rua do Forno do Tijolo",,,,way
 "Rua do Forte de Santa Apolónia",,,,way
 "Rua do Funchal",,,,way
 "Rua do Gabaret",,,,way
@@ -3506,7 +3428,6 @@ Parada,,,,way
 "Rua dos Cordoeiros a Pedrouços",,,,way
 "Rua dos Correeiros",,,,way
 "Rua dos Cortes Reais",,,,way
-"Rua dos Corvos",,,,way
 "Rua dos Cravos de Abril",,,,way
 "Rua dos Cruzados",,,,way
 "Rua dos Duques de Bragança",,,,way
