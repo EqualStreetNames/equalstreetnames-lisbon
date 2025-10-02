@@ -1,4 +1,121 @@
 name,source,gender,wikidata,type
+"Alameda da Música",wikidata,-,Q638,way
+"Alameda das Linhas de Torres",wikidata,-,Q1826718,way
+"Avenida 5 de Outubro",wikidata,-,Q638903,way
+"Avenida Cidade de Lourenço Marques",wikidata,-,Q3889,way
+"Avenida Cidade de Luanda",wikidata,-,Q3897,way
+"Avenida Cidade de Praga",wikidata,-,Q1085,way
+"Avenida Defensores de Chaves",wikidata,-,Q7375105,way
+"Avenida Praia da Vitória",wikidata,-,Q2890321,way
+"Avenida da Boa Esperança",wikidata,-,Q4092,way
+"Avenida da Ilha da Madeira",wikidata,-,Q30188,way
+"Avenida da República",wikidata,-,Q45,way
+"Avenida da República (Túnel)",wikidata,-,Q45,way
+"Avenida da Torre de Belém",wikidata,-,Q215003,way
+"Avenida das Forças Armadas",wikidata,-,Q1074294,way
+"Avenida das Nações Unidas",wikidata,-,Q1065,way
+"Avenida de Berlim",wikidata,-,Q64,way
+"Avenida de Berna",wikidata,-,Q70,way
+"Avenida de Brasília",wikidata,-,Q2844,way
+"Avenida de Pádua",wikidata,-,Q617,way
+"Avenida de Paris",wikidata,-,Q90,way
+"Avenida de Roma",wikidata,-,Q220,way
+"Avenida de Ulisses",wikidata,-,Q47231,way
+"Avenida do Atlântico",wikidata,-,Q97,way
+"Avenida do Brasil",wikidata,-,Q155,way
+"Avenida do Colégio Militar",wikidata,-,Q5150411,way
+"Avenida do Índico",wikidata,-,Q1239,way
+"Avenida do Mediterrâneo",wikidata,-,Q4918,way
+"Avenida do México",wikidata,-,Q96,way
+"Avenida do Pacífico",wikidata,-,Q98,way
+"Avenida do Restelo",wikidata,-,Q10359913,way
+"Avenida do Rio de Janeiro",wikidata,-,Q8678,way
+"Avenida dos Estados Unidos da América",wikidata,-,Q30,way
+"Calçada da Ajuda",wikidata,-,Q413311,way
+"Calçadinha do Tijolo",wikidata,-,Q40089,way
+"Campo das Cebolas",wikidata,-,Q23485,way
+"Campo dos Mártires da Pátria",wikidata,-,Q126737000,way
+"Ciclovia Avenida Cidade de Luanda",wikidata,-,Q3897,way
+"Ciclovia Praça de Espanha",wikidata,-,Q29,way
+"Costa do Castelo",wikidata,-,Q636780,way
+"Estrada de Benfica",wikidata,-,Q534230,way
+"Estrada de Chelas",wikidata,-,Q8345179,way
+"Largo da Sé",wikidata,-,Q432290,way
+"Largo de Chelas",wikidata,-,Q8345179,way
+"Passeio das Tágides",wikidata,-,Q10385807,way
+"Passeio de Neptuno",wikidata,-,Q3954,way
+"Passeio do Tejo",wikidata,-,Q14294,way
+"Ponte 25 de Abril",wikidata,-,Q193245,way
+"Praça 25 de Abril",wikidata,-,Q193245,way
+"Praça da Figueira",wikidata,-,Q59798,way
+"Praça das Águas Livres",wikidata,-,Q623228,way
+"Praça de Espanha",wikidata,-,Q29,way
+"Praça de Londres",wikidata,-,Q84,way
+"Praça de Macau",wikidata,-,Q14773,way
+"Praça do Chile",wikidata,-,Q298,way
+"Praça do Império",wikidata,-,Q200464,relation+way
+"Praça dos Restauradores",wikidata,-,Q986738,way
+"Rotunda República Argentina",wikidata,-,Q414,way
+"Rotunda República da Colômbia",wikidata,-,Q739,way
+"Rotunda da Expo 98",wikidata,-,Q1139414,way
+"Rua Cidade da Beira",wikidata,-,Q211563,way
+"Rua Cidade da Praia",wikidata,-,Q3751,way
+"Rua Cidade de Benguela",wikidata,-,Q214248,way
+"Rua Cidade de Bissau",wikidata,-,Q3739,way
+"Rua Cidade de Bolama",wikidata,-,Q681802,way
+"Rua Cidade de Carmona",wikidata,-,Q911191,way
+"Rua Cidade de Inhambane",wikidata,-,Q456577,way
+"Rua Cidade de João Belo",wikidata,-,Q318299,way
+"Rua Cidade de Lisboa",wikidata,-,Q597,way
+"Rua Cidade de Liverpool",wikidata,-,Q24826,way
+"Rua Cidade de Lobito",wikidata,-,Q223914,way
+"Rua Cidade de Malange",wikidata,-,Q621001,way
+"Rua Cidade de Manchester",wikidata,-,Q18125,way
+"Rua Cidade de Moçâmedes",wikidata,-,Q221914,way
+"Rua Cidade de Nampula",wikidata,-,Q323801,way
+"Rua Cidade de Nova Lisboa",wikidata,-,Q207322,way
+"Rua Cidade de Novo Redondo",wikidata,-,Q780534,way
+"Rua Cidade de Quelimane",wikidata,-,Q318306,way
+"Rua Cidade de Tete",wikidata,-,Q388242,way
+"Rua Cidade de Vila Cabral",wikidata,-,Q667650,way
+"Rua Marquês de Ponte de Lima",wikidata,-,Q10326730,way
+"Rua Rio Ave",wikidata,-,Q14591,way
+"Rua Rio Cávado",wikidata,-,Q14582,way
+"Rua Rio Guadiana",wikidata,-,Q14305,way
+"Rua Rio Lis",wikidata,-,Q1440763,way
+"Rua Rio Minho",wikidata,-,Q14554,way
+"Rua Rio Mondego",wikidata,-,Q15656,way
+"Rua Rio Sado",wikidata,-,Q16669,way
+"Rua Rio Távora",wikidata,-,Q10362693,way
+"Rua Rio Tejo",wikidata,-,Q14294,way
+"Rua Rio Tua",wikidata,-,Q14626,way
+"Rua Rio Zêzere",wikidata,-,Q15671,way
+"Rua da Assunção",wikidata,-,Q162691,way
+"Rua da Cintura do Porto de Lisboa",wikidata,-,Q3398511,way
+"Rua da Misericórdia",wikidata,-,Q10367731,way
+"Rua da Mouraria",wikidata,-,Q987548,way
+"Rua da Voz do Operário",wikidata,-,Q10372830,way
+"Rua de Angola",wikidata,-,Q2826232,way
+"Rua de Cabo Verde",wikidata,-,Q3023340;Q1011,way
+"Rua de Campolide",wikidata,-,Q1031527,way
+"Rua de Macau",wikidata,-,Q14773,way
+"Rua de Manhiça",wikidata,-,Q10323671,way
+"Rua de Moçambique",wikidata,-,Q1029,way
+"Rua de Timor",wikidata,-,Q574,way
+"Rua do Alecrim",wikidata,-,Q102240169,way
+"Rua do Arco do Marquês de Alegrete",wikidata,-,Q23005906,way
+"Rua do Conde de Redondo",wikidata,-,Q7126266,way
+"Rua do Espírito Santo",wikidata,-,Q37302,way
+"Rua do Mar Vermelho",wikidata,-,Q23406,way
+"Rua do Mar do Norte",wikidata,-,Q1693,way
+"Rua do Pólo Norte",wikidata,-,Q934,way
+"Rua do Pólo Sul",wikidata,-,Q933,way
+"Rua do Rio Corgo",wikidata,-,Q3325117,way
+"Rua do Rio Douro",wikidata,-,Q14299,way
+"Rua do Rio Vouga",wikidata,-,Q15653,way
+"Rua dos Corvos",wikidata,-,Q43365,way
+"Rua dos Douradores",wikidata,-,Q281795,way
+"Terreiro das Missas",wikidata,-,Q132612,way
 "Avenida Helen Keller",wikidata,F,Q38203,way
 "Avenida Madame Curie",wikidata,F,Q7186,way
 "Avenida Maria Helena Vieira da Silva",wikidata,F,Q242399,way
@@ -102,7 +219,6 @@ name,source,gender,wikidata,type
 "Avenida Sidónio Pais",wikidata,M,Q356691,way
 "Avenida Vergílio Ferreira",wikidata,M,Q643437,way
 "Avenida Visconde de Valmor",wikidata,M,Q117356408,way
-"Avenida da Liberdade",wikidata,M,Q85868429,way
 "Avenida do Santo Condestável",wikidata,M,Q374056,way
 "Calçada de Santo André",wikidata,M,Q43399,way
 "Calçada de São Lourenço",wikidata,M,Q17590,way
