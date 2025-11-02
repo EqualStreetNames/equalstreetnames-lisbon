@@ -142,7 +142,7 @@ name,source,gender,wikidata,type
 "Azinhaga da Quinta das Courelas",,,,way
 "Azinhaga da Quinta do Alfenim",,,,way
 "Azinhaga da Salgada",,,,way
-"Azinhaga da Torre do Fato",,,,way
+"Azinhaga da Torre do Fato",,,,relation+way
 "Azinhaga da Torrinha",,,,way
 "Azinhaga da Troca",,,,way
 "Azinhaga da Vila Formosa",,,,way
@@ -475,6 +475,7 @@ Castor,,,,way
 "Ciclovia Avenida Manuel da Maia",,,,way
 "Ciclovia Avenida Marechal Gomes da Costa",,,,way
 "Ciclovia Avenida Rovisco Pais",,,,way
+"Ciclovia Avenida Santos Dumont",,,,way
 "Ciclovia Avenida da República",,,,way
 "Ciclovia Avenida das Nações Unidas",,,,way
 "Ciclovia Avenida de Berna",,,,way
@@ -571,6 +572,8 @@ DH,,,,way
 "Escolas Gerais",,,,way
 "Esplanada Dom Carlos I",,,,way
 "Estacada das Gaivotas",,,,way
+"Estação de Serviço da 2.ª Circular - Aeroporto",,,,way
+"Estação de Serviço da 2.ª Circular - B",,,,way
 "Estrada Estrangeira de Cima",,,,way
 "Estrada Militar",,,,way
 "Estrada Pedro Teixeira",,,,way
@@ -878,7 +881,6 @@ Parada,,,,way
 "Parada do Alto de São João",,,,way
 "Parada dos Prazeres",,,,way
 "Parque Infantil da Quinta da Granja",,,,way
-"Parque Telheiras",,,,way
 "Passeio Artur Agostinho",,,,way
 "Passeio Carlos do Carmo",,,,way
 "Passeio João Jayme Faria Affonso",,,,way
@@ -1123,6 +1125,7 @@ Parada,,,,way
 "Praça Eduardo Mondlane",,,,way
 "Praça Europa",,,,relation
 "Praça Faria da Costa",,,,way
+"Praça Francisco de Morais",,,,way
 "Praça Gago Coutinho",,,,way
 "Praça General Domingos de Oliveira",,,,way
 "Praça General Vicente de Freitas",,,,way
@@ -1140,6 +1143,7 @@ Parada,,,,way
 "Praça Nuno Rodrigues dos Santos",,,,way
 "Praça Pasteur",,,,way
 "Praça Pedonal da Alameda da Universidade",,,,way
+"Praça Poente",,,,relation
 "Praça Professor Rodriges Lapa",,,,way
 "Praça Professor Santos Andrea",,,,way
 "Praça Rainha Dona Filipa",,,,way
@@ -1793,7 +1797,6 @@ Parada,,,,way
 "Rua Doutor Oliveira Ramos",,,,way
 "Rua Doutor Pereira Bernardes",,,,way
 "Rua Doutor Rafael Duque",,,,way
-"Rua Doutor Rodrigo de Sousa",,,,way
 "Rua Doutor Rui Gomes de Oliveira",,,,way
 "Rua Doutor Teófilo Braga",,,,way
 "Rua Doutora Sara Benoliel",,,,way
@@ -3838,3 +3841,4 @@ Triste-Feia,,,,way
 "Vila Visconde de Santo Ambrósio",,,,way
 "Vila Zenha",,,,way
 "Vila de São João",,,,way
+w,,,,way
