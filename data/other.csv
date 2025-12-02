@@ -35,7 +35,7 @@ name,source,gender,wikidata,type
 "Alto do Penalva",,,,way
 "Alto do Varejão",,,,way
 "Alto dos Moinhos",,,,way
-"Arco Escuro",,,,way
+"Arco Escuro",,,,relation+way
 "Arco Grande de Cima",,,,way
 "Arco da Conceição",,,,way
 "Arco da Travessa do Monte",,,,way
@@ -805,7 +805,7 @@ Kamikaze,,,,way
 "Largo do Calhariz",,,,way
 "Largo do Calvário",,,,way
 "Largo do Cantinho",,,,way
-"Largo do Carmo",,,,relation+way
+"Largo do Carmo",,,,way
 "Largo do Casal Vistoso",,,,way
 "Largo do Casal do Gil",,,,way
 "Largo do Castelo",,,,way
@@ -822,7 +822,6 @@ Kamikaze,,,,way
 "Largo do Correio-Mor",,,,way
 "Largo do Doutor António de Sousa de Macedo",,,,way
 "Largo do Doutor José de Figueiredo",,,,way
-"Largo do Duque do Cadaval",,,,relation
 "Largo do Figueiredo",,,,way
 "Largo do Galvão",,,,way
 "Largo do General Sousa Brandão",,,,way
