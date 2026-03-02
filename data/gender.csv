@@ -42,6 +42,7 @@ name,source,gender,wikidata,type
 "Estrada de Chelas",wikidata,-,Q8345179,way
 "Largo da Sé",wikidata,-,Q432290,way
 "Largo de Chelas",wikidata,-,Q8345179,way
+"Largo do Calvário",wikidata,-,Q17117535,way
 "Passeio das Tágides",wikidata,-,Q10385807,way
 "Passeio de Neptuno",wikidata,-,Q3954,way
 "Passeio do Tejo",wikidata,-,Q14294,way
@@ -59,6 +60,7 @@ name,source,gender,wikidata,type
 "Rotunda República da Colômbia",wikidata,-,Q739,way
 "Rotunda da Expo 98",wikidata,-,Q1139414,way
 "Rua 1 ao Túnel do Rego",wikidata,-,Q9643896,way
+"Rua Áurea",wikidata,-,Q897,way
 "Rua Cidade da Beira",wikidata,-,Q211563,way
 "Rua Cidade da Praia",wikidata,-,Q3751,way
 "Rua Cidade de Benguela",wikidata,-,Q214248,way
@@ -235,6 +237,7 @@ name,source,gender,wikidata,type
 "Largo Azeredo Perdigão",wikidata,M,Q1709713,way
 "Largo Bartolomeu Dias",wikidata,M,Q130377,way
 "Largo Dom Manuel I",wikidata,M,Q154308,way
+"Largo Trindade Coelho",wikidata,M,Q1626736,way
 "Largo Vitorino Damásio",wikidata,M,Q10310647,way
 "Largo de Santo Estêvão",wikidata,M,Q161775,way
 "Largo de São Martinho",wikidata,M,Q133704,way
