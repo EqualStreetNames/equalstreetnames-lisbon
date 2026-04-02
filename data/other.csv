@@ -165,6 +165,7 @@ name,source,gender,wikidata,type
 "Azinhaga do Casal das Oliveiras",,,,way
 "Azinhaga do Casquilho",,,,way
 "Azinhaga do Ferrão",,,,way
+"Azinhaga do Fundo",,,,way
 "Azinhaga do Jogo da Bola",,,,way
 "Azinhaga do Planeta",,,,way
 "Azinhaga do Poço de Baixo",,,,way
@@ -206,6 +207,7 @@ name,source,gender,wikidata,type
 "Beco da Bolacha",,,,way
 "Beco da Cardosa",,,,way
 "Beco da Caridade",,,,way
+"Beco da Coelheira",,,,way
 "Beco da Corvinha",,,,way
 "Beco da Cruz",,,,way
 "Beco da Enfermaria",,,,way
@@ -338,6 +340,7 @@ name,source,gender,wikidata,type
 "Bosque Encantado",,,,relation
 "Cai de Costas",,,,way
 "Cais 1",,,,way
+"Cais 2",,,,way
 "Cais 3",,,,way
 "Cais A",,,,relation
 "Cais B",,,,relation
@@ -461,6 +464,7 @@ name,source,gender,wikidata,type
 "Campo das Amoreiras",,,,way
 "Campo de Santa Clara",,,,way
 "Caracol da Graça",,,,way
+"Carreiro das Frutas",,,,way
 "Casal Evangelista",,,,way
 "Casal de Colares",,,,way
 "Casal do Evaristo de Cima",,,,way
@@ -1127,6 +1131,7 @@ Parada,,,,way
 "Praça Faria da Costa",,,,way
 "Praça Francisco de Morais",,,,way
 "Praça Gago Coutinho",,,,way
+"Praça Garcia de Orta",,,,way
 "Praça General Domingos de Oliveira",,,,way
 "Praça General Vicente de Freitas",,,,way
 "Praça Ginásio Clube Português",,,,way
@@ -1795,6 +1800,7 @@ Parada,,,,way
 "Rua Doutor Oliveira Ramos",,,,way
 "Rua Doutor Pereira Bernardes",,,,way
 "Rua Doutor Rafael Duque",,,,way
+"Rua Doutor Rodrigo de Sousa",,,,way
 "Rua Doutor Rui Gomes de Oliveira",,,,way
 "Rua Doutor Teófilo Braga",,,,way
 "Rua Doutora Sara Benoliel",,,,way
@@ -1849,6 +1855,7 @@ Parada,,,,way
 "Rua Engenheiro Rodrigues de Carvalho",,,,way
 "Rua Engenheiro Santos Simões",,,,way
 "Rua Engénio Salvador",,,,way
+"Rua Entre-Prados",,,,way
 "Rua Epifânio Dias",,,,way
 "Rua Ernâni Lopes",,,,way
 "Rua Ernesto Costa",,,,way
@@ -2865,6 +2872,7 @@ Parada,,,,way
 "Rua da Judiaria",,,,way
 "Rua da Junqueira",,,,way
 "Rua da Lapa",,,,way
+"Rua da Largada",,,,way
 "Rua da Madre de Deus",,,,way
 "Rua da Mãe D'Água",,,,way
 "Rua da Mãe d'Água",,,,way
@@ -2935,6 +2943,7 @@ Parada,,,,way
 "Rua da Vitória",,,,way
 "Rua das Acácias",,,,way
 "Rua das Açucenas",,,,way
+"Rua das Alcachofras",,,,way
 "Rua das Amoreiras",,,,way
 "Rua das Amoreiras à Ajuda",,,,way
 "Rua das Azáleas",,,,way
@@ -3000,6 +3009,7 @@ Parada,,,,way
 "Rua de Andaluz",,,,way
 "Rua de Angra do Heroísmo",,,,way
 "Rua de Arroios",,,,way
+"Rua de Artilharia 1",,,,way
 "Rua de Artilharia Um",,,,way
 "Rua de Baixo",,,,way
 "Rua de Baixo Limpopo",,,,way
@@ -3320,6 +3330,7 @@ Parada,,,,way
 "Rua dos Cravos de Abril",,,,way
 "Rua dos Cruzados",,,,way
 "Rua dos Duques de Bragança",,,,way
+"Rua dos Estábulos",,,,way
 "Rua dos Eucaliptos",,,,way
 "Rua dos Fanqueiros",,,,way
 "Rua dos Ferreiros à Estrela",,,,way
@@ -3839,4 +3850,3 @@ Triste-Feia,,,,way
 "Vila Visconde de Santo Ambrósio",,,,way
 "Vila Zenha",,,,way
 "Vila de São João",,,,way
-w,,,,way
