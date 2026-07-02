@@ -209,7 +209,6 @@ name,source,gender,wikidata,type
 "Beco de São Marçal",,,,way
 "Beco de São Miguel",,,,way
 "Beco do Alegrete",,,,way
-"Beco do Alfurda",,,,way
 "Beco do Alfurja",,,,way
 "Beco do Almotacé",,,,way
 "Beco do Arco Escuro",,,,way
@@ -222,6 +221,7 @@ name,source,gender,wikidata,type
 "Beco do Casal",,,,way
 "Beco do Cascalho",,,,way
 "Beco do Castelo",,,,way
+"Beco do Chanceler",,,,way
 "Beco do Chão Salgado",,,,way
 "Beco do Colégio dos Nobres",,,,way
 "Beco do Espírito Santo",,,,way
@@ -253,7 +253,6 @@ name,source,gender,wikidata,type
 "Beco do Olival",,,,way
 "Beco do Outeirinho da Amendoeira",,,,way
 "Beco do Penabuquel",,,,way
-"Beco do Pernabuquel",,,,way
 "Beco do Petinguím",,,,way
 "Beco do Pocinho",,,,way
 "Beco do Quebra Costas",,,,way
@@ -288,7 +287,6 @@ name,source,gender,wikidata,type
 "Beco dos Três Engenhos",,,,way
 "Beco dos Vidros",,,,way
 "Boqueirão da Ponte da Lama",,,,way
-"Boqueirão da Ponte de Lama",,,,way
 "Boqueirão da Praia da Galé",,,,way
 "Boqueirão do Duro",,,,way
 "Boqueirão dos Ferreiros",,,,way
@@ -713,7 +711,6 @@ Kamikaze,,,,way
 "Largo de Santa Marinha",,,,way
 "Largo de Santo Antoninho",,,,way
 "Largo de Santo António da Sé",,,,way
-"Largo de Santo Estevão",,,,way
 "Largo de Santos",,,,way
 "Largo de Santos o Novo",,,,way
 "Largo de Santos-o-Velho",,,,way
@@ -743,6 +740,7 @@ Kamikaze,,,,way
 "Largo do Casal do Gil",,,,way
 "Largo do Castelo",,,,way
 "Largo do Chafariz de Dentro",,,,way
+"Largo do Chanceler",,,,way
 "Largo do Chão do Loureiro",,,,way
 "Largo do Chavariz de Dentro",,,,way
 "Largo do Conde Barão",,,,way
@@ -1035,6 +1033,7 @@ Parada,,,,way
 "Praça Bernardino Machado",,,,way
 "Praça Bernardo Santareno",,,,way
 "Praça Carlos Ramos",,,,way
+"Praça Centenário",,,,way
 "Praça Cidade de Salazar",,,,way
 "Praça Cidade do Luso",,,,way
 "Praça Cottinelli Telmo",,,,way
@@ -1658,7 +1657,6 @@ Parada,,,,way
 "Rua Engenheiro Quartin Graça",,,,way
 "Rua Engenheiro Rodrigues de Carvalho",,,,way
 "Rua Engenheiro Santos Simões",,,,way
-"Rua Engénio Salvador",,,,way
 "Rua Entre-Prados",,,,way
 "Rua Epifânio Dias",,,,way
 "Rua Ernâni Lopes",,,,way
@@ -1670,6 +1668,7 @@ Parada,,,,way
 "Rua Esmerência",,,,way
 "Rua Esquerda",,,,way
 "Rua Estácio da Veiga",,,,way
+"Rua Eugénio Salvador",,,,way
 "Rua Eugénio de Castro Rodrigues",,,,way
 "Rua Eugénio dos Santos",,,,way
 "Rua Eurico da Fonseca",,,,way
@@ -1691,7 +1690,6 @@ Parada,,,,way
 "Rua Fernando Gusmão",,,,way
 "Rua Fernando Lopes",,,,way
 "Rua Fernando Magalhães",,,,way
-"Rua Fernando Palha",,,,way
 "Rua Fernando Pedroso",,,,way
 "Rua Fernando Piteira Santos",,,,way
 "Rua Fernando Silva",,,,way
@@ -1973,7 +1971,6 @@ Parada,,,,way
 "Rua Luís de Sttau Monteiro",,,,way
 "Rua Luiz Pacheco",,,,way
 "Rua M",,,,way
-"Rua Macia",,,,way
 "Rua Madre Purificação dos Anjos Silva",,,,way
 "Rua Maestro António Taborda",,,,way
 "Rua Maestro Jaime Silva (Filho)",,,,way
@@ -2623,6 +2620,7 @@ Parada,,,,way
 "Rua de João Saraiva",,,,way
 "Rua de João de Deus",,,,way
 "Rua de José Ricardo",,,,way
+"Rua de Macia",,,,way
 "Rua de Manica",,,,way
 "Rua de Manjacaze",,,,way
 "Rua de Marcos Marreiros",,,,way
@@ -2790,7 +2788,7 @@ Parada,,,,way
 "Rua do Marquês de Sá da Bandeira",,,,way
 "Rua do Mato Grosso",,,,way
 "Rua do Meio à Ajuda",,,,way
-"Rua do Meio a Lapa",,,,way
+"Rua do Meio à Lapa",,,,way
 "Rua do Meio ao Arco do Carvalhão",,,,way
 "Rua do Merca-Tudo",,,,way
 "Rua do Mercado",,,,way
@@ -3005,7 +3003,7 @@ Parada,,,,way
 "Travessa da Mata",,,,way
 "Travessa da Memória",,,,way
 "Travessa da Nazaré",,,,way
-"Travessa da Oliveira a Estrela",,,,way
+"Travessa da Oliveira à Estrela",,,,way
 "Travessa da Olivieira de São Lázaro",,,,way
 "Travessa da Palma",,,,way
 "Travessa da Palmeira",,,,way

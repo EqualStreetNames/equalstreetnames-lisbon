@@ -260,6 +260,7 @@ name,source,gender,wikidata,type
 "Rua Helena Félix",wikidata,F,Q10294444,way
 "Rua Helena Vaz da Silva",wikidata,F,Q17420920,way
 "Rua Jacinta Marto",wikidata,F,Q206278,way
+"Rua Julieta Ferrão",wikidata,F,Q1712286,way
 "Rua Laura Alves",wikidata,F,Q10316531,way
 "Rua Laura Ayres",wikidata,F,Q1587071,way
 "Rua Lucinda Simões",wikidata,F,Q104322025,way
@@ -392,7 +393,6 @@ name,source,gender,wikidata,type
 "Calçada Bento da Rocha Cabral",wikidata,M,Q69387746,way
 "Calçada de Santo André",wikidata,M,Q43399,way
 "Calçada de São Lourenço",wikidata,M,Q17590,way
-"Calçadinha de Santo Estevão",wikidata,M,Q161775,way
 "Calçadinha de Santo Estêvão",wikidata,M,Q161775,way
 "Ciclovia Avenida Infante Dom Henrique",wikidata,M,Q182897,way
 "Ciclovia Avenida Paulo VI",wikidata,M,Q16975,way
@@ -636,6 +636,7 @@ name,source,gender,wikidata,type
 "Rua Fernando Lopes Graça",wikidata,M,Q3267715,way
 "Rua Fernando Maurício",wikidata,M,Q3069500,way
 "Rua Fernando Namora",wikidata,M,Q1406784,way
+"Rua Fernando Palha",wikidata,M,Q120753016,way
 "Rua Fernando Pessoa",wikidata,M,Q173481,way
 "Rua Fernão Álvares do Oriente",wikidata,M,Q1407465,way
 "Rua Fernão Lopes",wikidata,M,Q704519,way
