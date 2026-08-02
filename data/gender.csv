@@ -745,6 +745,7 @@ name,source,gender,wikidata,type
 "Rua Luís Cristino da Silva",wikidata,M,Q10321382,way
 "Rua Luís Derouet",wikidata,M,Q117356569,way
 "Rua Luís Pastor de Macedo",wikidata,M,Q104635923,way
+"Rua Luís Pinto Moitinho",wikidata,M,Q10321599,way
 "Rua Luís de Camões",wikidata,M,Q590,way
 "Rua Luís de Freitas Branco",wikidata,M,Q555403,way
 "Rua Luz Soriano",wikidata,M,Q10321179,way
@@ -906,3 +907,4 @@ name,source,gender,wikidata,type
 "Túnel da Rua Marquês de Subserra",wikidata,M,Q3286857,way
 "Túnel do Marquês",wikidata,M,Q319511,way
 "Viaduto Duarte Pacheco",wikidata,M,Q10268881,way
+"Vila Queirós",wikidata,M,Q316327,way
