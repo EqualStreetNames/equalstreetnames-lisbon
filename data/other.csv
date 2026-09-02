@@ -62,7 +62,6 @@ name,source,gender,wikidata,type
 "Avenida Marechal Teixeira Rebelo",,,,way
 "Avenida Marginal",,,,way
 "Avenida Marques Junior",,,,way
-"Avenida Mousinho de Albuquerque",,,,way
 "Avenida Nuno Krus Abecassis",,,,way
 "Avenida Padre Cruz",,,,way
 "Avenida Professor Gama Pinto",,,,way
@@ -292,12 +291,9 @@ name,source,gender,wikidata,type
 "Boqueirão dos Ferreiros",,,,way
 "Bosque Encantado",,,,relation
 "Cai de Costas",,,,way
-"Cais 1",,,,way
-"Cais 2",,,,way
-"Cais 3",,,,way
-"Cais A",,,,relation
-"Cais B",,,,relation
-"Cais C",,,,relation
+"Cais A",,,,relation+way
+"Cais B",,,,relation+way
+"Cais C",,,,relation+way
 "Cais D",,,,relation
 "Cais E",,,,relation
 "Cais Português",,,,way
@@ -862,6 +858,7 @@ Parada,,,,way
 "Pátio da Amorosa",,,,way
 "Patio da Baptista",,,,way
 "Pátio da Celeste",,,,way
+"Pátio da Costa",,,,way
 "Patio da Cruz",,,,way
 "Pátio da Fábrica de Goma",,,,way
 "Pátio da Liberdade",,,,way
@@ -3313,7 +3310,6 @@ Triste-Feia,,,,way
 "Vila Amélia",,,,way
 "Vila Amélia Gomes",,,,way
 "Vila Amilcar",,,,way
-"Vila Áspera",,,,way
 "Vila Bela Vista",,,,way
 "Vila Berta",,,,way
 "Vila Borba",,,,way

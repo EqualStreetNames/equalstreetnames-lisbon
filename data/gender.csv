@@ -441,7 +441,7 @@ name,source,gender,wikidata,type
 "Praça Martim Moniz",wikidata,M,Q3028496,relation+way
 "Praça Nuno Gonçalves",wikidata,M,Q139015,way
 "Praça Paiva Couceiro",wikidata,M,Q1384253,relation+way
-"Praça Pasteur",wikidata,M,Q34296,way
+"Praça Pasteur",wikidata,M,Q34296;Q529,way
 "Praça Príncipe Perfeito",wikidata,M,Q217637,way
 "Praça São João Bosco",wikidata,M,Q146183,way
 "Praça de Luís de Camões",wikidata,M,Q590,way
