@@ -298,6 +298,8 @@ name,source,gender,wikidata,type
 "Cais E",,,,relation
 "Cais Português",,,,way
 "Cais da Lingueta",,,,way
+"Cais da Matinha",,,,way
+"Cais da Princesa",,,,way
 "Cais da Ribeira das Naus",,,,way
 "Cais das Colunas",,,,way
 "Cais das Naus",,,,way
@@ -472,6 +474,7 @@ DH,,,,way
 "Doca da Marinha",,,,relation
 "Doca de Alcântara",,,,way
 "Doca de Belém",,,,way
+"Doca do Bom Sucesso",,,,way
 "Duque De Ávila com Rua Dona Estefânia",,,,way
 "Eixo Central",,,,way
 "Eixo Norte-Sul",,,,way
@@ -855,7 +858,6 @@ Parada,,,,way
 "Pátio Neves",,,,way
 "Pátio Ripo Monte",,,,way
 "Pátio Venceslau",,,,way
-"Pátio da Amorosa",,,,way
 "Patio da Baptista",,,,way
 "Pátio da Celeste",,,,way
 "Pátio da Costa",,,,way
@@ -2278,6 +2280,7 @@ Parada,,,,way
 "Rua Rodrigo Reinel",,,,way
 "Rua Rodrigues Cabrilho",,,,way
 "Rua Rodrigues Faria",,,,way
+"Rua Rodrigues de Faria",,,,way
 "Rua Rogério Amaral",,,,way
 "Rua Rogério de Moura",,,,way
 "Rua Rosalina",,,,way
@@ -2467,7 +2470,6 @@ Parada,,,,way
 "Rua da Junqueira",,,,way
 "Rua da Lapa",,,,way
 "Rua da Largada",,,,way
-"Rua da Mãe D'Água",,,,way
 "Rua da Mãe d'Água",,,,way
 "Rua da Manutenção",,,,way
 "Rua da Margem",,,,way
@@ -3372,7 +3374,6 @@ Triste-Feia,,,,way
 "Vila Ribeiro",,,,way
 "Vila Ribeiro Seabra",,,,way
 "Vila Rodrigues",,,,way
-"Vila Rogélia",,,,way
 "Vila Rosa",,,,way
 "Vila Rosário",,,,way
 "Vila Rui Gouveia",,,,way
