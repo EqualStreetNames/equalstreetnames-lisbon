@@ -41,7 +41,6 @@ name,source,gender,wikidata,type
 "Arruamento à Rua de Vila Sena",,,,way
 "Átrio da Estação",,,,way
 "Autoestrada da Costa do Estoril",,,,way
-"Autoestrada do Norte",,,,way
 "Autoestrada do Sul",,,,way
 "Avenida 24 de Janeiro",,,,way
 "Avenida 24 de Julho",,,,relation+way
@@ -58,7 +57,6 @@ name,source,gender,wikidata,type
 "Avenida Lusíada",,,,way
 "Avenida Machado Santos",,,,way
 "Avenida Marconi",,,,way
-"Avenida Marechal Francisco da Costa Gomes",,,,way
 "Avenida Marechal Teixeira Rebelo",,,,way
 "Avenida Marginal",,,,way
 "Avenida Marques Junior",,,,way
@@ -475,7 +473,6 @@ DH,,,,way
 "Doca de Alcântara",,,,way
 "Doca de Belém",,,,way
 "Doca do Bom Sucesso",,,,way
-"Duque De Ávila com Rua Dona Estefânia",,,,way
 "Eixo Central",,,,way
 "Eixo Norte-Sul",,,,way
 "Entrada da Estufa Fria",,,,way
@@ -523,6 +520,7 @@ DH,,,,way
 "Escolas Gerais",,,,way
 "Esplanada Dom Carlos I",,,,way
 "Estacada das Gaivotas",,,,way
+"Estacada do Arboreto",,,,way
 "Estação de Serviço da 2.ª Circular - Aeroporto",,,,way
 "Estação de Serviço da 2.ª Circular - B",,,,way
 "Estrada Estrangeira de Cima",,,,way
@@ -799,6 +797,7 @@ Kamikaze,,,,way
 "Miradouro Amoreiras 360º Panoramic View",,,,way
 "Miradouro Keil do Amaral",,,,way
 "Miradouro da Casa de Goa",,,,relation
+"Miradouro das Portas do Sol",,,,way
 "Miradouro de Santo Amaro",,,,relation
 "Miradouro do Bairro do Alvito",,,,way
 "Miradouro do Monte Agudo",,,,way
@@ -815,7 +814,6 @@ Parada,,,,way
 "Passeio Carlos do Carmo",,,,way
 "Passeio João Jayme Faria Affonso",,,,way
 "Passeio Marítimo de Algés",,,,way
-"Passeio Rua Dona Estefânia 197",,,,way
 "Passeio da Fama",,,,way
 "Passeio da Ilha dos Amores",,,,way
 "Passeio da Nau Catrineta",,,,way
@@ -1021,7 +1019,6 @@ Parada,,,,way
 "Ponte da Bela Vista",,,,way
 "Porta do Mar",,,,relation
 "Porta do Tejo",,,,way
-"Portas do Sol",,,,way
 "Postigo Marquês do Lavradio",,,,way
 "Praça Aires de Ornelas",,,,way
 "Praça Álvaro Ponce Dentinho",,,,way
@@ -1030,7 +1027,6 @@ Parada,,,,way
 "Praça Artur Portela",,,,way
 "Praça Baden Powell",,,,way
 "Praça Bernardino Machado",,,,way
-"Praça Bernardo Santareno",,,,way
 "Praça Carlos Ramos",,,,way
 "Praça Centenário",,,,way
 "Praça Cidade de Salazar",,,,way
@@ -1054,7 +1050,6 @@ Parada,,,,way
 "Praça João de Azevedo Coutinho",,,,way
 "Praça José Queirós",,,,way
 "Praça Laranjo Coelho",,,,way
-"Praça Manuel Cerveira Pereira",,,,way
 "Praça Mar da Palha",,,,way
 "Praça Mota Veiga",,,,way
 "Praça Nuno Rodrigues dos Santos",,,,way
@@ -1085,7 +1080,7 @@ Parada,,,,way
 "Praça de Entrada",,,,way
 "Praça do Aeroporto",,,,way
 "Praça do Caramão",,,,way
-"Praça do Comércio",,,,relation+way
+"Praça do Comércio",,,,way
 "Praça do Município",,,,way
 "Praça do Norte",,,,way
 "Praça do Oriente",,,,relation
@@ -1309,7 +1304,6 @@ Parada,,,,way
 "Rua Alice Pestana (Caiel)",,,,way
 "Rua Almirante Afonso Cerqueira",,,,way
 "Rua Almirante Campos Rodrigues",,,,way
-"Rua Almirante Sarmento Rodrigues",,,,way
 "Rua Alto da Eira",,,,way
 "Rua Álvares Fagundes",,,,way
 "Rua Álvaro Coutinho",,,,way
@@ -1595,7 +1589,6 @@ Parada,,,,way
 "Rua Doutor António Ribeiro dos Santos",,,,way
 "Rua Doutor Costa Sacadura",,,,way
 "Rua Doutor Eduardo Neves",,,,way
-"Rua Doutor Faria de Vasconcelos",,,,way
 "Rua Doutor Figueiredo",,,,way
 "Rua Doutor Gama Barros",,,,way
 "Rua Doutor Gregório Rodrigues Fernandes",,,,way
@@ -1616,7 +1609,6 @@ Parada,,,,way
 "Rua Doutor Pereira Bernardes",,,,way
 "Rua Doutor Rodrigo de Sousa",,,,way
 "Rua Doutor Rui Gomes de Oliveira",,,,way
-"Rua Doutor Teófilo Braga",,,,way
 "Rua Doutora Sara Benoliel",,,,way
 "Rua Duarte Lobo",,,,way
 "Rua Duarte Vidal",,,,way
@@ -1641,7 +1633,6 @@ Parada,,,,way
 "Rua Embaixador Teixeira de Sampaio",,,,way
 "Rua Embaixador Terxeira do Sampaio",,,,way
 "Rua Emídio Santana",,,,way
-"Rua Emília Eduarda",,,,way
 "Rua Emília das Neves",,,,way
 "Rua Engenheiro Adão Manuel Ramos Barata",,,,way
 "Rua Engenheiro António Maria Avelar",,,,way
@@ -1734,11 +1725,9 @@ Parada,,,,way
 "Rua Frederico de Brito",,,,way
 "Rua Frei Bartolomeu dos Mártires",,,,way
 "Rua Frei Bernardo de Brito",,,,way
-"Rua Frei Fortunato de São Boaventura",,,,way
 "Rua Frei Joaquim de Santa Rosa de Viterbo",,,,way
 "Rua Frei Luís de Granada",,,,way
 "Rua Frei Manuel Cardoso",,,,way
-"Rua Frei Manuel do Cenáculo",,,,way
 "Rua Frei Tomé de Jesus",,,,way
 "Rua Fresca",,,,way
 "Rua Furriel Galrão Nogueira",,,,way
@@ -1748,7 +1737,6 @@ Parada,,,,way
 "Rua Gabriel Constante",,,,way
 "Rua Gaivotas em Terra",,,,way
 "Rua Galileu Galilei",,,,way
-"Rua Garcia da Orta",,,,way
 "Rua Garcia de Resende",,,,way
 "Rua General Farinha Beirão",,,,way
 "Rua General Firmino Miguel",,,,way
@@ -1793,7 +1781,6 @@ Parada,,,,way
 "Rua Horta e Silva",,,,way
 "Rua Hugo Casaes",,,,way
 "Rua Humberto Madeira",,,,way
-"Rua Humberto da Cruz",,,,way
 "Rua I",,,,way
 "Rua I do Loteamento do Alto dos Moinhos",,,,way
 "Rua Ildefonso Borges",,,,way
@@ -1848,7 +1835,6 @@ Parada,,,,way
 "Rua João Pedro Grácio",,,,way
 "Rua João Penha",,,,way
 "Rua João Ribas",,,,way
-"Rua João da Silva",,,,way
 "Rua João das Regras",,,,way
 "Rua João de Castilho",,,,way
 "Rua João de Castro Osório",,,,way
@@ -2126,7 +2112,6 @@ Parada,,,,way
 "Rua Particular 2",,,,way
 "Rua Particular 3",,,,way
 "Rua Particular B à Rua de Marvila",,,,way
-"Rua Particular à Azinhaga da Cidade",,,,way
 "Rua Particular à Azinhaga da Fonte Velha",,,,way
 "Rua Particular à Azinhaga dos Lameiros",,,,way
 "Rua Particular à Calçada de Santo Amaro",,,,way
@@ -2216,7 +2201,6 @@ Parada,,,,way
 "Rua Professor Mário de Albuquerque",,,,way
 "Rua Professor Mark Athias",,,,way
 "Rua Professor Miller Guerra",,,,way
-"Rua Professor Mira Fernandes",,,,way
 "Rua Professor Moisés Amzalak",,,,way
 "Rua Professor Oliveira Marques",,,,way
 "Rua Professor Orlando Ribeiro",,,,way
@@ -2305,7 +2289,6 @@ Parada,,,,way
 "Rua Sargento Armando Monteiro Ferreira",,,,way
 "Rua Sargento Jácome Moreira",,,,way
 "Rua Sargento José Paulo dos Santos",,,,way
-"Rua Sarmento de Beires",,,,way
 "Rua Sebastião Saraiva Lima",,,,way
 "Rua Sem Nome à Travessa da Horta Navia",,,,way
 "Rua Sem Nome ao Bairro dos Sete Céus",,,,way
@@ -2627,7 +2610,6 @@ Parada,,,,way
 "Rua de Montepuez",,,,way
 "Rua de Nossa Senhora da Encarnação",,,,way
 "Rua de Nossa Senhora do Amparo",,,,way
-"Rua de Olivença",,,,way
 "Rua de Ovar",,,,way
 "Rua de Pedro Dias",,,,way
 "Rua de Pedrouços",,,,way
@@ -2824,7 +2806,6 @@ Parada,,,,way
 "Rua do Rio Coura",,,,way
 "Rua do Rio Seco",,,,way
 "Rua do Rio Tâmega",,,,way
-"Rua do Rio Tejo",,,,way
 "Rua do Saco",,,,way
 "Rua do Sacramento a Alcântara",,,,way
 "Rua do Sacramento à Lapa",,,,way

@@ -183,6 +183,7 @@ name,source,gender,wikidata,type
 "Rua de Mocímboa da Praia",wikidata,-,Q1362117,way
 "Rua de Moscavide",wikidata,-,Q35734150,way
 "Rua de O Século",wikidata,-,Q3347813,way
+"Rua de Olivença",wikidata,-,Q488052,way
 "Rua de Ponta Delgada",wikidata,-,Q49278070,way
 "Rua de Sapadores",wikidata,-,Q16502091,way
 "Rua de Timor",wikidata,-,Q574,way
@@ -252,6 +253,7 @@ name,source,gender,wikidata,type
 "Rua Edith Cavel",wikidata,F,Q237564,way
 "Rua Edith Cavell",wikidata,F,Q237564,way
 "Rua Eduarda Lapa",wikidata,F,Q10270600,way
+"Rua Emília Eduarda",wikidata,F,Q105748371,way
 "Rua Fernanda Montemor",wikidata,F,Q10281188,way
 "Rua Florbela Espanca",wikidata,F,Q467179,way
 "Rua Georgina Ribas",wikidata,F,Q106378586,way
@@ -320,6 +322,7 @@ name,source,gender,wikidata,type
 "Avenida Carlos Paredes",wikidata,M,Q952965,way
 "Avenida Carlos Pinhão",wikidata,M,Q9697288,way
 "Avenida Casal Ribeiro",wikidata,M,Q528812,way
+"Avenida Cidade do Porto/2ª Circular",wikidata,M,Q359362,way
 "Avenida Columbano Bordalo Pinheiro",wikidata,M,Q1112288,way
 "Avenida Conde de Valbom",wikidata,M,Q10307428,way
 "Avenida Conselheiro Fernando de Sousa",wikidata,M,Q10309384,way
@@ -365,6 +368,7 @@ name,source,gender,wikidata,type
 "Avenida Marechal Craveiro Lopes",wikidata,M,Q359362,way
 "Avenida Marechal Craveiro Lopes/2ª Circular",wikidata,M,Q359362,way
 "Avenida Marechal Francisco Costa Gomes",wikidata,M,Q348880,way
+"Avenida Marechal Francisco da Costa Gomes",wikidata,M,Q348880,way
 "Avenida Marechal Gomes da Costa",wikidata,M,Q470961,way
 "Avenida Marquês de Tomar",wikidata,M,Q130870,way
 "Avenida Miguel Bombarda",wikidata,M,Q952551,way
@@ -435,6 +439,7 @@ name,source,gender,wikidata,type
 "Praça João do Rio",wikidata,M,Q1710229,way
 "Praça José Fontana",wikidata,M,Q10309414,way
 "Praça Luís de Camões",wikidata,M,Q590,way
+"Praça Manuel Cerveira Pereira",wikidata,M,Q10324056,way
 "Praça Marechal Humberto Delgado",wikidata,M,Q551999,relation+way
 "Praça Marquês de Pombal",wikidata,M,Q319511,way
 "Praça Marquês de Pombal (Rotunda)",wikidata,M,Q319511,way
@@ -496,6 +501,7 @@ name,source,gender,wikidata,type
 "Rua Almeida e Sousa",wikidata,M,Q139094533,way
 "Rua Almerindo Lessa",wikidata,M,Q59531434,way
 "Rua Almirante Barroso",wikidata,M,Q5483649,way
+"Rua Almirante Sarmento Rodrigues",wikidata,M,Q7424295,way
 "Rua Álvaro Benamor",wikidata,M,Q10395758,way
 "Rua Álvaro Fernandes",wikidata,M,Q610871,way
 "Rua Álvaro Machado",wikidata,M,Q9393569,way
@@ -610,11 +616,13 @@ name,source,gender,wikidata,type
 "Rua Doutor Álvaro de Castro",wikidata,M,Q251430,way
 "Rua Doutor Cunha Seixas",wikidata,M,Q10309985,way
 "Rua Doutor Estêvão de Vasconcelos",wikidata,M,Q10277633,way
+"Rua Doutor Faria de Vasconcelos",wikidata,M,Q5435210,way
 "Rua Doutor José Espírito Santo",wikidata,M,Q135859249,way
 "Rua Doutor Júlio Dantas",wikidata,M,Q1388664,way
 "Rua Doutor Nicolau de Bettencourt",wikidata,M,Q10336760,way
 "Rua Doutor Rafael Duque",wikidata,M,Q10357034,way
 "Rua Doutor Silva Teles",wikidata,M,Q10285244,way
+"Rua Doutor Teófilo Braga",wikidata,M,Q345926,way
 "Rua Duarte Galvão",wikidata,M,Q8770846,way
 "Rua Duarte Lopes",wikidata,M,Q19629294,way
 "Rua Duarte Pacheco Pereira",wikidata,M,Q686754,way
@@ -662,8 +670,11 @@ name,source,gender,wikidata,type
 "Rua Frederico George",wikidata,M,Q10285779,way
 "Rua Frei Amador Arrais",wikidata,M,Q452134,way
 "Rua Frei Carlos",wikidata,M,Q10285877,way
+"Rua Frei Fortunato de São Boaventura",wikidata,M,Q10284280,way
 "Rua Frei Francisco Foreiro",wikidata,M,Q10284772,way
+"Rua Frei Manuel do Cenáculo",wikidata,M,Q4902673,way
 "Rua Freitas Gazul",wikidata,M,Q10285362,way
+"Rua Garcia da Orta",wikidata,M,Q1493994,way
 "Rua Garcia de Orta",wikidata,M,Q1493994,way
 "Rua Garrett",wikidata,M,Q316806,way
 "Rua Gaspar Corte Real",wikidata,M,Q374424,way
@@ -688,6 +699,7 @@ name,source,gender,wikidata,type
 "Rua Henrique Alves",wikidata,M,Q131813950,way
 "Rua Henrique Medina",wikidata,M,Q10294802,way
 "Rua Hermínio da Palma Inácio",wikidata,M,Q3071895,way
+"Rua Humberto da Cruz",wikidata,M,Q47468512,way
 "Rua Ivens",wikidata,M,Q1744490,way
 "Rua Jaime Lopes Dias",wikidata,M,Q28028920,way
 "Rua Jerónimo Corte Real",wikidata,M,Q6185646,way
@@ -705,6 +717,7 @@ name,source,gender,wikidata,type
 "Rua João Villaret",wikidata,M,Q1560243,way
 "Rua João da Mota e Silva",wikidata,M,Q1772318,way
 "Rua João da Nova",wikidata,M,Q435882,way
+"Rua João da Silva",wikidata,M,Q104637618,way
 "Rua João de Barros",wikidata,M,Q703704,way
 "Rua João de Lisboa",wikidata,M,Q10312495,way
 "Rua João de Santarém",wikidata,M,Q72300,way
@@ -820,6 +833,7 @@ name,source,gender,wikidata,type
 "Rua Professor Lima Basto",wikidata,M,Q139126333,way
 "Rua Professor Lindley Cintra",wikidata,M,Q3324908,way
 "Rua Professor Manuel Valadares",wikidata,M,Q10324526,way
+"Rua Professor Mira Fernandes",wikidata,M,Q9638198,way
 "Rua Professor Moniz Pereira",wikidata,M,Q10334485,way
 "Rua Professor Moniz Pereira (Pedonal)",wikidata,M,Q10334485,way
 "Rua Professor Prado Coelho",wikidata,M,Q5340732,way
@@ -848,6 +862,7 @@ name,source,gender,wikidata,type
 "Rua São Francisco Xavier",wikidata,M,Q163900,way
 "Rua São João Nepomuceno",wikidata,M,Q221522,way
 "Rua Saraiva de Carvalho",wikidata,M,Q16495285,way
+"Rua Sarmento de Beires",wikidata,M,Q7424299,way
 "Rua Serpa Pinto",wikidata,M,Q921705,way
 "Rua Silva Carvalho",wikidata,M,Q3808775,way
 "Rua Silva Tavares",wikidata,M,Q59590083,way
